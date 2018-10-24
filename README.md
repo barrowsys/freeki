@@ -8,6 +8,6 @@ At the end of the quiz, where it shows the score, the script will automatically 
 
 # For Developers?
 
-To build the script, run "freeki.py build"  
 To prune the questions list of duplicates, run "freeki.py prune"  
+To build the script, run "freeki.py build"  
 To do both, run "freeki.py all"
