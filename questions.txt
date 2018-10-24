@@ -1,3 +1,51 @@
+0.  Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
+0.  Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
+0.  Anecdote Answer: a short account of a particular incident or event of an interesting or amusing nature, often biographical. Correct!
+0.  Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
+0.  Auspicious Answer: favorable, noteworthy Correct!
+0.  Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
+0.  Denotation Answer: a word that names or signifies something specific Correct!
+0.  Discern Answer: to recognize the difference Correct!
+0.  Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
+0.  Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
+0.  Procure Answer: to obtain Correct!
+0.  Quandary Answer: a state of perplexity or uncertainty Correct!
+0.  What color are the Marleybone mailboxes? Answer: Red Correct!
+0.  What course did Herold Digmoore study? Answer: Ancient Myths for Parliament Correct!
+0.  What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
+0.  What is Sgt. Major Talbot's full name? Answer: Sylvester Quimby Talbot III Correct!
+0.  What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
+0.  What is flying around in Regent's Square? Answer: Newspapers Correct!
+0.  What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
+0.  What time does the clock always read in Marleybone? Answer: 1:55 Correct!
+0.  What transports you from place to place in Marleybone? Answer: Hot Air Balloons Correct!
+0.  What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
+0.  Which symbol is not on the stained glass window in Regent's Square? Answer: A Tennis Ball Correct!
+0.  Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
+0. Which state is known as the "Beaver State?" Answer: Oregon Correct!
+0. Which state is known as the "Bluegrass State?" Answer: Kentucky Correct!
+0. Which state is known as the "Empire State?" Answer: New York Correct!
+0. Which state is known as the "First State?" Answer: Delaware Correct!
+0. Which state is known as the "Garden State?" Answer: New Jersey Correct!
+0. Which state is known as the "Great Lakes State?" Answer: Michigan Correct!
+0. Which state is known as the "Magnolia State?" Answer: Mississippi Correct!
+0. Which state is known as the "Ocean State?" Answer: Rhode Island Correct!
+0. Which state is known as the "Pelican State?" Answer: Louisiana Correct!
+0. Which state is known as the "Prairie State?" Answer: Illinois Correct!
+0. Which state is known as the "Silver State?" Answer: Nevada Correct!
+0. Which state is known as the "Volunteer State?" Answer: Tennessee Correct!
+0. Who composed Blue Danube? Answer: Strauss Correct!
+0. Who composed Canon in D? Answer: Pachelbel Correct!
+0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
+0. Who composed Flight of the Bumblebee? Answer: Timsky-Korsakov Correct!
+0. Who composed Funeral March? Answer: Chopin Correct!
+0. Who composed Fur Elise? Answer: Beethoven Correct!
+0. Who composed Hungarian Rhapsody No. 2? Answer: Liszt Correct!
+0. Who composed La Gioconda: Dance of the Hours? Answer: Ponchielli Correct!
+0. Who composed Moonlight Sonata? Answer: Beethoven Correct!
+0. Who composed Orpheus In the Underworld? Answer: Offenbach Correct!
+0. Who composed Rhapsody In Blue? Answer: Gershwin Correct!
+0. Who composed Sorcerer's Apprentice? Answer: Dukas Correct!
 0. Who was the 19th president of the United States? Answer: Rutherford B. Hayes Correct!
 0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
 0. Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
