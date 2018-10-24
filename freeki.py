@@ -21,7 +21,8 @@ def prune():
     with open("questions.txt", "w") as wfile:
         squestions = list(sorted(questions))
         for sq in squestions:
-            wfile.write(f"0. {sq} Correct!\n")
+            text = f"0. {sq} Correct!\n".replace("  ", " ")
+            wfile.write(text)
     print(f"Pruned {qlen} questions down to {len(questions)}")
 
 

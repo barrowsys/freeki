@@ -1,39 +1,27 @@
-0.   What is the capital of Colorado? Answer:  Denver Correct!
-0.   What is the capital of Georgia? Answer:  Atlanta Correct!
-0.   What is the capital of Hawaii? Answer:  Honolulu Correct!
-0.   What is the capital of Kentucky? Answer:  Frankfort Correct!
-0.   What is the capital of Louisiana? Answer:  Baton Rouge Correct!
-0.   What is the capital of Massachusetts? Answer:  Boston Correct!
-0.   What is the capital of Minnesota? Answer:  Saint Paul Correct!
-0.   What is the capital of New Mexico? Answer:  Santa Fe Correct!
-0.   What is the capital of Pennsylvania? Answer:  Harrisburg Correct!
-0.   What is the capital of Utah? Answer:  Salt Lake City Correct!
-0.   What is the capital of West Virginia? Answer:  Charleston Correct!
-0.   What is the capital of Wyoming? Answer:  Cheyenne Correct!
-0.  What is the state bird of Delaware? Answer: Blue Hen Chicken Correct!
-0.  What is the state bird of Georgia? Answer: Brown Thrasher Correct!
-0.  What is the state bird of Idaho? Answer: Mountain Bluebird Correct!
-0.  What is the state bird of Kansas? Answer: Western Meadowlark Correct!
-0.  What is the state bird of Louisiana? Answer: Brown Pelican Correct!
-0.  What is the state bird of Maine? Answer: Black-Capped Chickadee Correct!
-0.  What is the state bird of Michigan? Answer: American Robin Correct!
-0.  What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
-0.  What is the state bird of Nevada? Answer: Mountain Bluebird Correct!
-0.  What is the state bird of New Hampshire? Answer: Purple Finch Correct!
-0.  What is the state bird of New York? Answer: Eastern Bluebird Correct!
-0.  What is the state bird of Utah? Answer: California Gull Correct!
-0.  Who was the 19th president of the United States? Answer: Rutherford B. Hayes Correct!
-0.  Who was the 20th president of the United States? Answer: James A. Garfield Correct!
-0.  Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
-0.  Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
-0.  Who was the 27th president of the United States? Answer: William Howard Taft Correct!
-0.  Who was the 29th president of the United States? Answer: Warren G. Harding Correct!
-0.  Who was the 34th president of the United States? Answer: Dwight D. Eisenhower Correct!
-0.  Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
-0.  Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
-0.  Who was the 5th president of the United States? Answer: James Monroe Correct!
-0.  Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
-0.  Who was the 7th president of the United States? Answer: Andrew Jackson Correct!
+0. Who was the 19th president of the United States? Answer: Rutherford B. Hayes Correct!
+0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
+0. Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
+0. Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
+0. Who was the 27th president of the United States? Answer: William Howard Taft Correct!
+0. Who was the 29th president of the United States? Answer: Warren G. Harding Correct!
+0. Who was the 34th president of the United States? Answer: Dwight D. Eisenhower Correct!
+0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
+0. Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
+0. Who was the 5th president of the United States? Answer: James Monroe Correct!
+0. Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
+0. Who was the 7th president of the United States? Answer: Andrew Jackson Correct!
+0. Who wrote 1984? Answer: George Orwell Correct!
+0. Who wrote Catch-22? Answer: Joseph Heller Correct!
+0. Who wrote Invisible Man? Answer: Ralph Ellison Correct!
+0. Who wrote Lolita? Answer: Vladimir Nabokov Correct!
+0. Who wrote Lord of the Flies? Answer: William Golding Correct!
+0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
+0. Who wrote Slaughterhouse-Five? Answer: Kurt Vonnegut Correct!
+0. Who wrote The Great Gatsby? Answer: F. Scott Fitzgerald Correct!
+0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
+0. Who wrote The Sound and the Fury? Answer: William Faulkner Correct!
+0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
+0. Who wrote Things Fall Apart? Answer: Chinua Achebe Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
 0. Akbar created a thriving empire through what modern country? Answer: India Correct!
@@ -140,10 +128,13 @@
 0. What is the shape on the weather vanes in the Shopping District? Answer: Half moon/moon Correct!
 0. What is the state bird of Arizona? Answer: Cactus Wren Correct!
 0. What is the state bird of Connecticut? Answer: American Robin Correct!
+0. What is the state bird of Delaware? Answer: Blue Hen Chicken Correct!
+0. What is the state bird of Georgia? Answer: Brown Thrasher Correct!
 0. What is the state bird of Hawaii? Answer: Nene Correct!
 0. What is the state bird of Idaho? Answer: Mountain Bluebird Correct!
 0. What is the state bird of Illinois? Answer: Cardinal Correct!
 0. What is the state bird of Kansas? Answer: Western Meadowlark Correct!
+0. What is the state bird of Louisiana? Answer: Brown Pelican Correct!
 0. What is the state bird of Maine? Answer: Black-Capped Chickadee Correct!
 0. What is the state bird of Massachusetts? Answer: Black-Capped Chickadee Correct!
 0. What is the state bird of Michigan? Answer: American Robin Correct!
@@ -151,6 +142,8 @@
 0. What is the state bird of Mississippi? Answer: Mockingbird Correct!
 0. What is the state bird of Missouri? Answer: Eastern Bluebird Correct!
 0. What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
+0. What is the state bird of Nevada? Answer: Mountain Bluebird Correct!
+0. What is the state bird of New Hampshire? Answer: Purple Finch Correct!
 0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
 0. What is the state bird of Ohio? Answer: Cardinal Correct!
 0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
@@ -230,6 +223,7 @@
 0. Who was the 14th president of the United States? Answer: Franklin Pierce Correct!
 0. Who was the 16th president of the United States? Answer: Abraham Lincoln Correct!
 0. Who was the 18th president of the United States? Answer: Ulysses S. Grant Correct!
+0. Who was the 19th president of the United States? Answer: Rutherford B. Hayes Correct!
 0. Who was the 1st president of the United States? Answer: George Washington Correct!
 0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
 0. Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
@@ -245,25 +239,36 @@
 0. Who was the 31st president of the United States? Answer: Herbert Hoover Correct!
 0. Who was the 32nd president of the United States? Answer: Franklin D. Roosevelt Correct!
 0. Who was the 33rd president of the United States? Answer: Harry S. Truman Correct!
+0. Who was the 34th president of the United States? Answer: Dwight D. Eisenhower Correct!
 0. Who was the 36th president of the United States? Answer: Lyndon B. Johnson Correct!
 0. Who was the 38th president of the United States? Answer: Gerald Ford Correct!
 0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
 0. Who was the 3rd president of the United States? Answer: Thomas Jefferson Correct!
+0. Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
 0. Who was the 41st president of the United States? Answer: George H. W. Bush Correct!
 0. Who was the 42nd president of the United States? Answer: Bill Clinton Correct!
 0. Who was the 44th president of the United States? Answer: Barack Obama Correct!
 0. Who was the 4th president of the United States? Answer: James Madison Correct!
+0. Who was the 5th president of the United States? Answer: James Monroe Correct!
+0. Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
+0. Who was the 7th president of the United States? Answer: Andrew Jackson Correct!
 0. Who was the 8th president of the United States? Answer: Martin Van Buren Correct!
 0. Who wrote 1984? Answer: George Orwell Correct!
+0. Who wrote Catch-22? Answer: Joseph Heller Correct!
 0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
+0. Who wrote Invisible Man? Answer: Ralph Ellison Correct!
 0. Who wrote Lolita? Answer: Vladimir Nabokov Correct!
 0. Who wrote Lord of the Flies? Answer: William Golding Correct!
 0. Who wrote Mrs. Dalloway? Answer: Virginia Woolf Correct!
 0. Who wrote On the Road? Answer: Jack Kerouac Correct!
 0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
+0. Who wrote Slaughterhouse-Five? Answer: Kurt Vonnegut Correct!
 0. Who wrote The Grapes of Wrath? Answer: John Steinbeck Correct!
+0. Who wrote The Great Gatsby? Answer: F. Scott Fitzgerald Correct!
 0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
+0. Who wrote The Sound and the Fury? Answer: William Faulkner Correct!
 0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
 0. Who wrote Their Eyes Were Watching God? Answer: Zora Neale Hurston Correct!
+0. Who wrote Things Fall Apart? Answer: Chinua Achebe Correct!
 0. Who wrote Watchmen? Answer: Alan Moore Correct!
 0. Winston Churchill was prime minister of Britian during which war? Answer: World War II Correct!
