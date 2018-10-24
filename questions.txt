@@ -81,7 +81,6 @@
 0. Which two ammendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
 0. Who did the United States purchase Alaska from? Answer: Russia Correct!
 0. This element was discovered by Hans Christian Oersted in 1825. Answer: Al Correct!
-0. This element was discovered in 1808. Answer: B Correct!
 0. The symbol 'H' refers to which chemical element? Answer: Hydrogen Correct!
 0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
 0. Most of the earth's atmosphere consists of this gas. Answer: N Correct!
@@ -298,4 +297,14 @@
 0. Who was the 38th president of the United States? Answer: Gerald Ford Correct!
 0. Who was the 28th president of the United States? Answer: Woodrow Wilson Correct!
 0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
-
+1. The symbol 'H' refers to which chemical element? Answer: Hydrogen Correct!
+2. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
+3. Most of the earth's atmosphere consists of this gas. Answer: N Correct!
+5. The symbol 'Cu' refers to which chemical element? Answer: Copper Correct!
+6. Which of these elements is considered a Metal. Answer: Fe Correct!
+7. What is the symbol for Potassium? Answer: K Correct!
+8. The symbol 'Co' refers to which chemical element? Answer: Cobalt Correct!
+9. The symbol 'Au' refers to which chemical element? Answer: Gold Correct!
+10. This element helps give plants the energy they need to grow. Answer: P Correct!
+11. This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
+12. The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
