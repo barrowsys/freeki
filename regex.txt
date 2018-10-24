@@ -1,0 +1,5 @@
+Find:
+\d+\. (.*) Answer: (.*) Correct!\n
+
+Replace:
+    is(questionel.innerHTML, "\1", "\2")\n
