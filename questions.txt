@@ -1,3 +1,27 @@
+0.   What is the capital of Colorado? Answer:  Denver Correct!
+0.   What is the capital of Georgia? Answer:  Atlanta Correct!
+0.   What is the capital of Hawaii? Answer:  Honolulu Correct!
+0.   What is the capital of Kentucky? Answer:  Frankfort Correct!
+0.   What is the capital of Louisiana? Answer:  Baton Rouge Correct!
+0.   What is the capital of Massachusetts? Answer:  Boston Correct!
+0.   What is the capital of Minnesota? Answer:  Saint Paul Correct!
+0.   What is the capital of New Mexico? Answer:  Santa Fe Correct!
+0.   What is the capital of Pennsylvania? Answer:  Harrisburg Correct!
+0.   What is the capital of Utah? Answer:  Salt Lake City Correct!
+0.   What is the capital of West Virginia? Answer:  Charleston Correct!
+0.   What is the capital of Wyoming? Answer:  Cheyenne Correct!
+0.  What is the state bird of Delaware? Answer: Blue Hen Chicken Correct!
+0.  What is the state bird of Georgia? Answer: Brown Thrasher Correct!
+0.  What is the state bird of Idaho? Answer: Mountain Bluebird Correct!
+0.  What is the state bird of Kansas? Answer: Western Meadowlark Correct!
+0.  What is the state bird of Louisiana? Answer: Brown Pelican Correct!
+0.  What is the state bird of Maine? Answer: Black-Capped Chickadee Correct!
+0.  What is the state bird of Michigan? Answer: American Robin Correct!
+0.  What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
+0.  What is the state bird of Nevada? Answer: Mountain Bluebird Correct!
+0.  What is the state bird of New Hampshire? Answer: Purple Finch Correct!
+0.  What is the state bird of New York? Answer: Eastern Bluebird Correct!
+0.  What is the state bird of Utah? Answer: California Gull Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
 0. Akbar created a thriving empire through what modern country? Answer: India Correct!
