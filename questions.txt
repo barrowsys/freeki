@@ -1,310 +1,233 @@
-0. Who was the 11th president of the United States? Answer: James K. Polk Correct!
-0. Who was the 42nd president of the United States? Answer: Bill Clinton Correct!
-0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
-0. Who was the 10th president of the United States? Answer: John Tyler Correct!
-0. Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
-0. Who was the 23rd president of the United States? Answer: Benjamin Harrison Correct!
-0. Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
-0. Who was the 31st president of the United States? Answer: Herbert Hoover Correct!
-0. Who was the 38th president of the United States? Answer: Gerald Ford Correct!
-0. Who was the 28th president of the United States? Answer: Woodrow Wilson Correct!
-0. Who was the 22nd president of the United States? Answer: Grover Cleveland Correct!
-0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
-0. Who was the 4th president of the United States? Answer: James Madison Correct!
-0. Who was the 24th president of the United States? Answer: Grover Cleveland Correct!
-0. Who was the 29th president of the United States? Answer: Warren G. Harding Correct!
-0. Who was the 36th president of the United States? Answer: Lyndon B. Johnson Correct!
-0. Who was the 44th president of the United States? Answer: Barack Obama Correct!
-0. Who was the 27th president of the United States? Answer: William Howard Taft Correct!
-0. Who was the 3rd president of the United States? Answer: Thomas Jefferson Correct!
-0. Who was the 30th president of the United States? Answer: Calvin Coolidge Correct!
-0. Who was the 8th president of the United States? Answer: Martin Van Buren Correct!
-0. Who was the 14th president of the United States? Answer: Franklin Pierce Correct!
-0. Who was the 28th president of the United States? Answer: Woodrow Wilson Correct!
-0. What is the capital of Michigan Answer: Lansing Correct!
-0. What is the capital of West Virginia Answer: Charleston Correct!
-0. What is the capital of Texas Answer: Austin Correct!
-0. What is the capital of Colorado Answer: Denver Correct!
-0. What is the capital of Indiana Answer: Indianapolis Correct!
-0. What is the capital of Tennessee Answer: Nashville Correct!
-0. What is the capital of Nebraska Answer: Lincoln Correct!
-0. What is the capital of Nevada Answer: Carson City Correct!
-0. What is the capital of South Dakota Answer: Pierre Correct!
-0. What is the capital of Utah Answer: Salt Lake City Correct!
-0. What is the capital of Oklahoma Answer: Oklahoma City Correct!
-0. What is the capital of Maryland Answer: Annapolis Correct!
-0. The American Revolution was against the ________, the English army. Answer: Red Coats Correct!
-0. This famous display against England's taxation threw a luxury item into the sea. Answer: Boston Tea Party Correct!
-0. What year was the Declaration of Independence signed? Answer: 1776 Correct!
-0. This famous American colony is in modern Massachusetts. Answer: Plymouth Correct!
-0. Which early tax act made American settlers very angry pre-revolution? Answer: Stamp Act of 1765 Correct!
-0. Who did the United States purchase Alaska from? Answer: Russia Correct!
-0. Which natural resource was a large reason many Americans choose to journey westward in the 1800's? Answer: Gold Correct!
-0. President Thomas Jefferson made what large purchase to buy American a lot of new territory? Answer: Louisiana Purchase Correct!
-0. Most of the original American settlers were from what country? Answer: England Correct!
-0. What year did the British surrender in the American Revolution? Answer: 1781 Correct!
-0. Where was President Abraham Lincoln assassinated? Answer: The Theatre Correct!
-0. What is the state bird of West Virginia? Answer: Cardinal Correct!
-0. What is the state bird of Illinois? Answer: Cardinal Correct!
-0. What is the state bird of Wyoming? Answer: Western Meadowlark Correct!
-0. What is the state bird of Missouri? Answer: Eastern Bluebird Correct!
-0. What is the state bird of Michigan? Answer: American Robin Correct!
-0. What is the state bird of Connecticut? Answer: American Robin Correct!
-0. What is the state bird of Idaho? Answer: Mountain Bluebird Correct!
-0. What is the state bird of Arizona? Answer: Cactus Wren Correct!
-0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
-0. What is the state bird of Mississippi? Answer: Mockingbird Correct!
-0. What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
-0. What is the state bird of Utah? Answer: California Gull Correct!
-0. Ludwig Beethoven was a famous German _______. Answer: Composer Correct!
-0. Pablo Picasso is famous for his what? Answer: Art Correct!
-0. Albert Einstein came up with the theory of _________. Answer: Relativity Correct!
-0. Elvis Presley is a famous pop singer from what country? Answer: United States Correct!
-0. Nelson Mandela is from where? Answer: South Africa Correct!
-0. Mother Teresa was a _____ who did a lot of charity. Answer: Nun Correct!
-0. Martin Luther King helped ___________ in America. Answer: Civil Rights Correct!
-0. Winston Churchill was prime minister of Britian during which war? Answer: World War II Correct!
-0. Mahatma Gandhi fought for ________'s independence. Answer: India Correct!
-0. Michael Jordan is famous for what special basketball move? Answer: Slam Dunk Correct!
-0. Bill Gates founded which American software company? Answer: Microsoft Correct!
-0. Muhammad Ali became famous through which sport? Answer: Boxing Correct!
-0. What year did the British surrender in the American Revolution? Answer: 1781 Correct!
-0. This famous American colony is in modern Massachusetts. Answer: Plymouth Correct!
-0. Where was President Abraham Lincoln assassinated? Answer: The Theatre Correct!
-0. What year was the Declaration of Independence signed? Answer: 1776 Correct!
-0. How long did the Civil War last? Answer: Four Years Correct!
-0. President Thomas Jefferson made what large purchase to buy American a lot of new territory? Answer: Louisiana Purchase Correct!
-0. Francis Scott Key wrote which famous piece of American history? Answer: The Star Spangled Banner Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
-0. Which natural resource was a large reason many Americans choose to journey westward in the 1800's? Answer: Gold Correct!
-0. The American Revolution was against the ________, the English army. Answer: Red Coats Correct!
-0. Which two ammendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
-0. Who did the United States purchase Alaska from? Answer: Russia Correct!
-0. This element was discovered by Hans Christian Oersted in 1825. Answer: Al Correct!
-0. The symbol 'H' refers to which chemical element? Answer: Hydrogen Correct!
-0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
+0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
+0. Akbar created a thriving empire through what modern country? Answer: India Correct!
+0. Albert Einstein came up with the theory of _________. Answer: Relativity Correct!
+0. Alexander the Great created ____________________. Answer: One of the largest empires in the ancient world Correct!
+0. Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
+0. Anecdote Answer: a short account of a particular incident or event of an interesting or amusing nature, often biographical. Correct!
+0. Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
+0. Assuage Answer: to relieve or soothe Correct!
+0. Auspicious Answer: favorable, noteworthy Correct!
+0. Bill Gates founded which American software company? Answer: Microsoft Correct!
+0. Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
+0. Chairman Mao led which government party to victory in China? Answer: Communism Correct!
+0. Conspicuous Answer: noticeable, obvious Correct!
+0. Denotation Answer: a word that names or signifies something specific Correct!
+0. Discern Answer: to recognize the difference Correct!
+0. Elvis Presley is a famous pop singer from what country? Answer: United States Correct!
+0. Enigma Answer: a mystery Correct!
+0. Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
+0. Francis Scott Key wrote which famous piece of American history? Answer: The Star Spangled Banner Correct!
+0. How long did the Civil War last? Answer: Four Years Correct!
+0. How many portal summoning candles are in the Burial Mound? Answer: Three Correct!
+0. In Azteca, Morganthe enlisted the help of the: Answer: The Black Sun Necromancers Correct!
+0. Joan of Arc fought bravely for what cause? Answer: French Independence Correct!
+0. King Henry VIII had how many wives? Answer: Six Correct!
+0. King Henry VIII wanted to remarry, which contributed to the creation of which religion? Answer: The Church of England Correct!
+0. KingsIsle makes games for which audience? Answer: All ages Correct!
+0. Kirby Longspear was once a student of which school of magic? Answer: Death Correct!
+0. Ludwig Beethoven was a famous German _______. Answer: Composer Correct!
+0. Mahatma Gandhi devoted his life to what? Answer: Indian independence Correct!
+0. Mahatma Gandhi fought for ________'s independence. Answer: India Correct!
+0. Martin Luther King helped ___________ in America. Answer: Civil Rights Correct!
+0. Michael Jordan is famous for what special basketball move? Answer: Slam Dunk Correct!
+0. Morganthe got the Horned Crown from the Spriggan: Answer: Gisela Correct!
 0. Most of the earth's atmosphere consists of this gas. Answer: N Correct!
-0. The symbol 'S' refers to which chemical element? Answer: Sulfur Correct!
-0. The symbol 'Pb' refers to which chemical element? Answer: Lead Correct!
+0. Most of the original American settlers were from what country? Answer: England Correct!
+0. Mother Teresa was a _____ who did a lot of charity. Answer: Nun Correct!
+0. Muhammad Ali became famous through which sport? Answer: Boxing Correct!
+0. Napoleon Bonaparte was the famous emperor of _______. Answer: France Correct!
+0. Nelson Mandela ___________________ before becoming the first President of democratic South Africa in 1994? Answer: spent over 20 years in jail Correct!
+0. Nelson Mandela is from where? Answer: South Africa Correct!
+0. Pablo Picasso is famous for his what? Answer: Art Correct!
+0. President Thomas Jefferson made what large purchase to buy American a lot of new territory? Answer: Louisiana Purchase Correct!
+0. Quandary Answer: a state of perplexity or uncertainty Correct!
+0. Sir Edward Halley is the Spiral�s most famous: Answer: Aztecosaurologist Correct!
+0. Sumner Fieldgold twice asks you to recover what for him? Answer: Shrubberies Correct!
+0. The American Revolution was against the ________, the English army. Answer: Red Coats Correct!
+0. The Swallows of Caliburn migrate to Avalon from where each year? Answer: Zafaria and Marleybone Correct!
+0. The Swordsman Destreza was killed by: Answer: A Gorgon Correct!
+0. The symbol 'Au' refers to which chemical element? Answer: Gold Correct!
+0. The symbol 'Co' refers to which chemical element? Answer: Cobalt Correct!
 0. The symbol 'Cu' refers to which chemical element? Answer: Copper Correct!
+0. The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
+0. The symbol 'H' refers to which chemical element? Answer: Hydrogen Correct!
+0. The symbol 'Pb' refers to which chemical element? Answer: Lead Correct!
+0. The symbol 'S' refers to which chemical element? Answer: Sulfur Correct!
+0. This element helps give plants the energy they need to grow. Answer: P Correct!
+0. This element is the building block of life. Answer: C Correct!
+0. This element was discovered by Hans Christian Oersted in 1825. Answer: Al Correct!
 0. This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
 0. This element when combined with Chlorine makes table salt. Answer: Na Correct!
-0. Which of these elements is considered a Metal. Answer: Fe Correct!
-0. This element helps give plants the energy they need to grow. Answer: P Correct!
-0. This element is the building block of life. Answer: C Correct!
-0. What is the symbol for Potassium? Answer: K Correct!
-0. What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
-0. What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
-0. What transports you from place to place in Marleybone? Answer: Hot Air Balloons Correct!
-0. Which of these folks can you find in the Royal Museum? Answer: Clancy Pembroke Correct!
-0. What time does the clock always read in Marleybone? Answer: 1:55 Correct!
-0. What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
-0. What did Prospector Zeke lose in Marleybone? Answer: The Stray Cats Correct!
-0. Who is not an officer you'll find around Marleybone? Answer: Officer Digmore Correct!
-0. What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
-0. What style of artifacts are in the Royal Museum? Answer: Krokotopian Correct!
-0. Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
-0. Who is Bill Tanner's sister? Answer: Sarah Tanner Correct!
-0. What did Abigail Dolittle accuse Wadsworth of stealing? Answer: Genuine Imitation Golden Ruby Correct!
-0. Who Is NOT a member of the Council of Light? Answer: Cyrus Drake Correct!
-0. Sir Edward Halley is the Spiral�s most famous: Answer: Aztecosaurologist Correct!
-0. What is the shape on the weather vanes in the Shopping District? Answer: Half moon/moon Correct!
-0. What level must you be to wear Dragonspyre crafted clothing? Answer: 33 Correct!
+0. This famous American colony is in modern Massachusetts. Answer: Plymouth Correct!
+0. This famous display against England's taxation threw a luxury item into the sea. Answer: Boston Tea Party Correct!
+0. Thomas Jefferson wrote which famous US document? Answer: The Declaration of Independence Correct!
 0. What book was Anna Flameright accused of stealing? Answer: Advanced Flameology Correct!
-0. The Swordsman Destreza was killed by: Answer: A Gorgon Correct!
-0. Which Queen is mentioned in the Marleybone book "The Golden Age"? Answer: Ellen Correct!
-0. Kirby Longspear was once a student of which school of magic? Answer: Death Correct!
-0. How many portal summoning candles are in the Burial Mound? Answer: Three Correct!
-0. Who tells you: "A shield is just as much a weapon as the sword." Answer: Mavra Flamewing Correct!
-0. Who tries to raise a Gorgon Army? Answer: Phorcys Correct!
-0. Who is Haraku Yip's apprentice? Answer: Binh Hoa Correct!
-0. Who grants the first Shadow Magic spell? Answer: Sophia DarkSide Correct!
-0. In Azteca, Morganthe enlisted the help of the: Answer: The Black Sun Necromancers Correct!
-0. Who taunts: Why I oughta knock you to the moon, you pesky little creep! Answer: Mugsy Correct!
-0. Who makes the harpsicord for Shelus? Answer: Gretta Darkkettle Correct!
-0. The Swallows of Caliburn migrate to Avalon from where each year? Answer: Zafaria and Marleybone Correct!
-0. Morganthe got the Horned Crown from the Spriggan: Answer: Gisela Correct!
-0. Sumner Fieldgold twice asks you to recover what for him? Answer: Shrubberies Correct!
-0. Where has Pharenor been imprisoned? Answer: Skythorn Tower Correct!
-0. Who needs the healing potion from Master Yip? Answer: Binh Hoa Correct!
 0. What countries can play Wizard101? Answer: All the above Correct!
 0. What currency do KingsIsle MMO games use? Answer: Crowns Correct!
-0. What was the name of the first charity Mount created by KingsIsle called? Answer: Meowmodon Correct!
-0. What year did KingsIsle's Wizard101 get nominated for the MMO Hall of Fame? Answer: 2014 Correct!
-0. Which celebrity composed music for a KingsIsle game? Answer: Nick Jonas Correct!
-0. What year did KingsIsle launch Wizard101? Answer: 2008 Correct!
-0. What was the name of KingsIsle's first game? Answer: Wizard101 Correct!
-0. Which Plano charity has KingsIsle donated to? Answer: Children' Medical Center at Legacy in Plano Correct!
-0. What year did KingsIsle launch Pirate101? Answer: 2012 Correct!
-0. KingsIsle makes games for which audience? Answer: All ages Correct!
-0. Who was the 41st president of the United States? Answer: George H. W. Bush Correct!
-0. Who was the 16th president of the United States? Answer: Abraham Lincoln Correct!
-0. Who was the 33rd president of the United States? Answer: Harry S. Truman Correct!
-0. Who was the 2nd president of the United States? Answer: John Adams Correct!
-0. Who was the 32nd president of the United States? Answer: Franklin D. Roosevelt Correct!
-0. Who was the 18th president of the United States? Answer: Ulysses S. Grant Correct!
-0. The symbol 'Au' refers to which chemical element? Answer: Gold Correct!
-0. The symbol 'Cu' refers to which chemical element? Answer: Copper Correct!
-0. This element is the building block of life. Answer: C Correct!
-0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
-0. Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
-0. The symbol 'H' refers to which chemical element? Answer: Hydrogen Correct!
-0. What is the symbol for Potassium? Answer: K Correct!
-0. The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
-0. This element helps give plants the energy they need to grow. Answer: P Correct!
-0. Most of the earth's atmosphere consists of this gas. Answer: N Correct!
-0. This element when combined with Chlorine makes table salt. Answer: Na Correct!
-0. Denotation Answer: a word that names or signifies something specific Correct!
-0. Enigma Answer: a mystery Correct!
-0. Auspicious Answer: favorable, noteworthy Correct!
-0. Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
-0. Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
-0. Discern Answer: to recognize the difference Correct!
-0. Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
-0. Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
-0. Quandary Answer: a state of perplexity or uncertainty Correct!
-0. Assuage Answer: to relieve or soothe Correct!
-0. Conspicuous Answer: noticeable, obvious Correct!
-0. Anecdote Answer: a short account of a particular incident or event of an interesting or amusing nature, often biographical. Correct!
-0. Who wrote The Grapes of Wrath? Answer: John Steinbeck Correct!
-0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
-0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
-0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
-0. Who wrote Lord of the Flies? Answer: William Golding Correct!
-0. Who wrote 1984? Answer: George Orwell Correct!
-0. Who wrote Their Eyes Were Watching God? Answer: Zora Neale Hurston Correct!
-0. Who wrote Mrs. Dalloway? Answer: Virginia Woolf Correct!
-0. Who wrote On the Road? Answer: Jack Kerouac Correct!
-0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
-0. Who wrote Lolita? Answer: Vladimir Nabokov Correct!
-0. Who wrote Watchmen? Answer: Alan Moore Correct!
-0. The symbol 'Au' refers to which chemical element? Answer: Gold Correct!
-0. The symbol 'Cu' refers to which chemical element? Answer: Copper Correct!
-0. This element is the building block of life. Answer: C Correct!
-0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
-0. Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
-0. The symbol 'H' refers to which chemical element? Answer: Hydrogen Correct!
-0. What is the symbol for Potassium? Answer: K Correct!
-0. The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
-0. This element helps give plants the energy they need to grow. Answer: P Correct!
-0. Most of the earth's atmosphere consists of this gas. Answer: N Correct!
-0. This element when combined with Chlorine makes table salt. Answer: Na Correct!
-0. Denotation Answer: a word that names or signifies something specific Correct!
-0. Enigma Answer: a mystery Correct!
-0. Auspicious Answer: favorable, noteworthy Correct!
-0. Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
-0. Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
-0. Discern Answer: to recognize the difference Correct!
-0. Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
-0. Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
-0. Quandary Answer: a state of perplexity or uncertainty Correct!
-0. Assuage Answer: to relieve or soothe Correct!
-0. Conspicuous Answer: noticeable, obvious Correct!
-0. Anecdote Answer: a short account of a particular incident or event of an interesting or amusing nature, often biographical. Correct!
-0. Who wrote The Grapes of Wrath? Answer: John Steinbeck Correct!
-0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
-0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
-0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
-0. Who wrote Lord of the Flies? Answer: William Golding Correct!
-0. Who wrote 1984? Answer: George Orwell Correct!
-0. Who wrote Their Eyes Were Watching God? Answer: Zora Neale Hurston Correct!
-0. Who wrote Mrs. Dalloway? Answer: Virginia Woolf Correct!
-0. Who wrote On the Road? Answer: Jack Kerouac Correct!
-0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
-0. Who wrote Lolita? Answer: Vladimir Nabokov Correct!
-0. Who wrote Watchmen? Answer: Alan Moore Correct!
-0. What is the capital of Ohio? Answer: Columbus Correct!
-0. What is the capital of Washington? Answer: Olympia Correct!
-0. What is the capital of Wyoming? Answer: Cheyenne Correct!
-0. What is the capital of Utah? Answer: Salt Lake City Correct!
-0. What is the capital of Delaware? Answer: Dover Correct!
-0. What is the capital of Vermont? Answer: Montpelier Correct!
-0. What is the capital of New Jersey? Answer: Trenton Correct!
+0. What did Abigail Dolittle accuse Wadsworth of stealing? Answer: Genuine Imitation Golden Ruby Correct!
+0. What did Prospector Zeke lose in Marleybone? Answer: The Stray Cats Correct!
+0. What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
+0. What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
 0. What is the capital of Alaska? Answer: Juneau Correct!
+0. What is the capital of Colorado Answer: Denver Correct!
+0. What is the capital of Colorado? Answer: Denver Correct!
+0. What is the capital of Delaware? Answer: Dover Correct!
+0. What is the capital of Georgia? Answer: Atlanta Correct!
+0. What is the capital of Hawaii? Answer: Honolulu Correct!
+0. What is the capital of Indiana Answer: Indianapolis Correct!
 0. What is the capital of Indiana? Answer: Indianapolis Correct!
-0. What is the capital of Pennsylvania? Answer: Harrisburg Correct!
+0. What is the capital of Kentucky? Answer: Frankfort Correct!
+0. What is the capital of Louisiana? Answer: Baton Rouge Correct!
+0. What is the capital of Maryland Answer: Annapolis Correct!
+0. What is the capital of Massachusetts? Answer: Boston Correct!
+0. What is the capital of Michigan Answer: Lansing Correct!
 0. What is the capital of Minnesota? Answer: Saint Paul Correct!
+0. What is the capital of Nebraska Answer: Lincoln Correct!
+0. What is the capital of Nevada Answer: Carson City Correct!
+0. What is the capital of New Jersey? Answer: Trenton Correct!
+0. What is the capital of New Mexico? Answer: Santa Fe Correct!
+0. What is the capital of Ohio? Answer: Columbus Correct!
+0. What is the capital of Oklahoma Answer: Oklahoma City Correct!
+0. What is the capital of Pennsylvania? Answer: Harrisburg Correct!
+0. What is the capital of South Dakota Answer: Pierre Correct!
+0. What is the capital of Tennessee Answer: Nashville Correct!
+0. What is the capital of Texas Answer: Austin Correct!
+0. What is the capital of Utah Answer: Salt Lake City Correct!
+0. What is the capital of Utah? Answer: Salt Lake City Correct!
+0. What is the capital of Vermont? Answer: Montpelier Correct!
+0. What is the capital of Washington? Answer: Olympia Correct!
+0. What is the capital of West Virginia Answer: Charleston Correct!
+0. What is the capital of West Virginia? Answer: Charleston Correct!
 0. What is the capital of Wisconsin? Answer: Madison Correct!
+0. What is the capital of Wyoming? Answer: Cheyenne Correct!
+0. What is the shape on the weather vanes in the Shopping District? Answer: Half moon/moon Correct!
+0. What is the state bird of Arizona? Answer: Cactus Wren Correct!
+0. What is the state bird of Connecticut? Answer: American Robin Correct!
 0. What is the state bird of Hawaii? Answer: Nene Correct!
-0. What is the state bird of Minnesota? Answer: Common Loon Correct!
-0. What is the state bird of Ohio? Answer: Cardinal Correct!
-0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
-0. What is the state bird of Tennessee? Answer: Mockingbird Correct!
-0. What is the state bird of Texas? Answer: Mockingbird Correct!
-0. What is the state bird of South Dakota? Answer: Ring-Necked Pheasant Correct!
-0. What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
-0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
-0. What is the state bird of Massachusetts? Answer: Black-Capped Chickadee Correct!
+0. What is the state bird of Idaho? Answer: Mountain Bluebird Correct!
+0. What is the state bird of Illinois? Answer: Cardinal Correct!
 0. What is the state bird of Kansas? Answer: Western Meadowlark Correct!
 0. What is the state bird of Maine? Answer: Black-Capped Chickadee Correct!
-0. Who composed Sorcerer's Apprentice? Answer: Dukas Correct!
-0. Who composed Hungarian Rhapsody No. 2? Answer: Liszt Correct!
-0. Who composed Fur Elise? Answer: Beethoven Correct!
+0. What is the state bird of Massachusetts? Answer: Black-Capped Chickadee Correct!
+0. What is the state bird of Michigan? Answer: American Robin Correct!
+0. What is the state bird of Minnesota? Answer: Common Loon Correct!
+0. What is the state bird of Mississippi? Answer: Mockingbird Correct!
+0. What is the state bird of Missouri? Answer: Eastern Bluebird Correct!
+0. What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
+0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
+0. What is the state bird of Ohio? Answer: Cardinal Correct!
+0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
+0. What is the state bird of South Dakota? Answer: Ring-Necked Pheasant Correct!
+0. What is the state bird of Tennessee? Answer: Mockingbird Correct!
+0. What is the state bird of Texas? Answer: Mockingbird Correct!
+0. What is the state bird of Utah? Answer: California Gull Correct!
+0. What is the state bird of West Virginia? Answer: Cardinal Correct!
+0. What is the state bird of Wyoming? Answer: Western Meadowlark Correct!
+0. What is the symbol for Potassium? Answer: K Correct!
+0. What level must you be to wear Dragonspyre crafted clothing? Answer: 33 Correct!
+0. What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
+0. What style of artifacts are in the Royal Museum? Answer: Krokotopian Correct!
+0. What time does the clock always read in Marleybone? Answer: 1:55 Correct!
+0. What transports you from place to place in Marleybone? Answer: Hot Air Balloons Correct!
+0. What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
+0. What was the name of KingsIsle's first game? Answer: Wizard101 Correct!
+0. What was the name of the first charity Mount created by KingsIsle called? Answer: Meowmodon Correct!
+0. What year did KingsIsle launch Pirate101? Answer: 2012 Correct!
+0. What year did KingsIsle launch Wizard101? Answer: 2008 Correct!
+0. What year did KingsIsle's Wizard101 get nominated for the MMO Hall of Fame? Answer: 2014 Correct!
+0. What year did the British surrender in the American Revolution? Answer: 1781 Correct!
+0. What year was the Declaration of Independence signed? Answer: 1776 Correct!
+0. Where has Pharenor been imprisoned? Answer: Skythorn Tower Correct!
+0. Where was President Abraham Lincoln assassinated? Answer: The Theatre Correct!
+0. Which Plano charity has KingsIsle donated to? Answer: Children' Medical Center at Legacy in Plano Correct!
+0. Which Queen is mentioned in the Marleybone book "The Golden Age"? Answer: Ellen Correct!
+0. Which celebrity composed music for a KingsIsle game? Answer: Nick Jonas Correct!
+0. Which early tax act made American settlers very angry pre-revolution? Answer: Stamp Act of 1765 Correct!
+0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
+0. Which natural resource was a large reason many Americans choose to journey westward in the 1800's? Answer: Gold Correct!
+0. Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
+0. Which of these elements is considered a Metal. Answer: Fe Correct!
+0. Which of these folks can you find in the Royal Museum? Answer: Clancy Pembroke Correct!
+0. Which state is known as the "Aloha State?" Answer: Hawaii Correct!
+0. Which state is known as the "Beehive State?" Answer: Utah Correct!
+0. Which state is known as the "Bluegrass State?" Answer: Kentucky Correct!
+0. Which state is known as the "Empire State?" Answer: New York Correct!
+0. Which state is known as the "First State?" Answer: Delaware Correct!
+0. Which state is known as the "Golden State?" Answer: California Correct!
+0. Which state is known as the "Great Lakes State?" Answer: Michigan Correct!
+0. Which state is known as the "Magnolia State?" Answer: Mississippi Correct!
+0. Which state is known as the "Pelican State?" Answer: Louisiana Correct!
+0. Which state is known as the "Prairie State?" Answer: Illinois Correct!
+0. Which state is known as the "Silver State?" Answer: Nevada Correct!
+0. Which state is known as the "Volunteer State?" Answer: Tennessee Correct!
+0. Which two amendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
+0. Which two ammendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
+0. Who Is NOT a member of the Council of Light? Answer: Cyrus Drake Correct!
 0. Who composed Blue Danube? Answer: Strauss Correct!
-0. Who composed In The Hall of the Mountain King? Answer: Grieg Correct!
-0. Who composed Ode to Joy? Answer: Beethoven Correct!
-0. Who composed Toccata and Fugue in D Minor? Answer: Bach Correct!
-0. Who composed Ride of the Valkyries? Answer: Wagner Correct!
-0. Who composed Moonlight Sonata? Answer: Beethoven Correct!
+0. Who composed Dance of the Sugar-Plum Fairy? Answer: Tchaikovsky Correct!
 0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
 0. Who composed Four Seasons? Answer: Vivaldi Correct!
-0. Who composed Dance of the Sugar-Plum Fairy? Answer: Tchaikovsky Correct!
-0. Most of the original American settlers were from what country? Answer: England Correct!
-0. This famous American colony is in modern Massachusetts. Answer: Plymouth Correct!
-0. Which two amendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
-0. President Thomas Jefferson made what large purchase to buy American a lot of new territory? Answer: Louisiana Purchase Correct!
-0. What year did the British surrender in the American Revolution? Answer: 1781 Correct!
-0. Which early tax act made American settlers very angry pre-revolution? Answer: Stamp Act of 1765 Correct!
-0. What year was the Declaration of Independence signed? Answer: 1776 Correct!
-0. Francis Scott Key wrote which famous piece of American history? Answer: The Star Spangled Banner Correct!
-0. How long did the Civil War last? Answer: Four Years Correct!
-0. Where was President Abraham Lincoln assassinated? Answer: The Theatre Correct!
-0. Which natural resource was a large reason many Americans choose to journey westward in the 1800's? Answer: Gold Correct!
+0. Who composed Fur Elise? Answer: Beethoven Correct!
+0. Who composed Hungarian Rhapsody No. 2? Answer: Liszt Correct!
+0. Who composed In The Hall of the Mountain King? Answer: Grieg Correct!
+0. Who composed Moonlight Sonata? Answer: Beethoven Correct!
+0. Who composed Ode to Joy? Answer: Beethoven Correct!
+0. Who composed Ride of the Valkyries? Answer: Wagner Correct!
+0. Who composed Sorcerer's Apprentice? Answer: Dukas Correct!
+0. Who composed Toccata and Fugue in D Minor? Answer: Bach Correct!
 0. Who did the United States purchase Alaska from? Answer: Russia Correct!
-0. Chairman Mao led which government party to victory in China? Answer: Communism Correct!
-0. King Henry VIII wanted to remarry, which contributed to the creation of which religion? Answer: The Church of England Correct!
-0. Napoleon Bonaparte was the famous emperor of _______. Answer: France Correct!
-0. Joan of Arc fought bravely for what cause? Answer: French Independence Correct!
+0. Who grants the first Shadow Magic spell? Answer: Sophia DarkSide Correct!
+0. Who is Bill Tanner's sister? Answer: Sarah Tanner Correct!
+0. Who is Haraku Yip's apprentice? Answer: Binh Hoa Correct!
+0. Who is not an officer you'll find around Marleybone? Answer: Officer Digmore Correct!
+0. Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
+0. Who makes the harpsicord for Shelus? Answer: Gretta Darkkettle Correct!
+0. Who needs the healing potion from Master Yip? Answer: Binh Hoa Correct!
+0. Who taunts: Why I oughta knock you to the moon, you pesky little creep! Answer: Mugsy Correct!
+0. Who tells you: "A shield is just as much a weapon as the sword." Answer: Mavra Flamewing Correct!
+0. Who tries to raise a Gorgon Army? Answer: Phorcys Correct!
 0. Who was Margaret Thatcher? Answer: British Prime Minister Correct!
-0. King Henry VIII had how many wives? Answer: Six Correct!
-0. Thomas Jefferson wrote which famous US document? Answer: The Declaration of Independence Correct!
-0. Nelson Mandela ___________________ before becoming the first President of democratic South Africa in 1994? Answer: spent over 20 years in jail Correct!
-0. Akbar created a thriving empire through what modern country? Answer: India Correct!
-0. Mahatma Gandhi devoted his life to what? Answer: Indian independence Correct!
-0. Alexander the Great created ____________________. Answer: One of the largest empires in the ancient world Correct!
-0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
-0. Which state is known as the "Bluegrass State?" Answer: Kentucky Correct!
-0. Which state is known as the "Beehive State?" Answer: Utah Correct!
-0. Which state is known as the "Silver State?" Answer: Nevada Correct!
-0. Which state is known as the "Golden State?" Answer: California Correct!
-0. Which state is known as the "Empire State?" Answer: New York Correct!
-0. Which state is known as the "Great Lakes State?" Answer: Michigan Correct!
-0. Which state is known as the "Volunteer State?" Answer: Tennessee Correct!
-0. Which state is known as the "Prairie State?" Answer: Illinois Correct!
-0. Which state is known as the "Magnolia State?" Answer: Mississippi Correct!
-0. Which state is known as the "First State?" Answer: Delaware Correct!
-0. Which state is known as the "Aloha State?" Answer: Hawaii Correct!
-0. Which state is known as the "Pelican State?" Answer: Louisiana Correct!
-0. Who was the 31st president of the United States? Answer: Herbert Hoover Correct!
-0. Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
-0. Who was the 23rd president of the United States? Answer: Benjamin Harrison Correct!
-0. Who was the 1st president of the United States? Answer: George Washington Correct!
+0. Who was the 10th president of the United States? Answer: John Tyler Correct!
+0. Who was the 11th president of the United States? Answer: James K. Polk Correct!
+0. Who was the 12th president of the United States? Answer: Zachary Taylor Correct!
+0. Who was the 14th president of the United States? Answer: Franklin Pierce Correct!
+0. Who was the 16th president of the United States? Answer: Abraham Lincoln Correct!
 0. Who was the 18th president of the United States? Answer: Ulysses S. Grant Correct!
+0. Who was the 1st president of the United States? Answer: George Washington Correct!
+0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
+0. Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
+0. Who was the 22nd president of the United States? Answer: Grover Cleveland Correct!
+0. Who was the 23rd president of the United States? Answer: Benjamin Harrison Correct!
+0. Who was the 24th president of the United States? Answer: Grover Cleveland Correct!
+0. Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
+0. Who was the 27th president of the United States? Answer: William Howard Taft Correct!
+0. Who was the 28th president of the United States? Answer: Woodrow Wilson Correct!
+0. Who was the 29th president of the United States? Answer: Warren G. Harding Correct!
+0. Who was the 2nd president of the United States? Answer: John Adams Correct!
+0. Who was the 30th president of the United States? Answer: Calvin Coolidge Correct!
+0. Who was the 31st president of the United States? Answer: Herbert Hoover Correct!
+0. Who was the 32nd president of the United States? Answer: Franklin D. Roosevelt Correct!
+0. Who was the 33rd president of the United States? Answer: Harry S. Truman Correct!
+0. Who was the 36th president of the United States? Answer: Lyndon B. Johnson Correct!
+0. Who was the 38th president of the United States? Answer: Gerald Ford Correct!
+0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
+0. Who was the 3rd president of the United States? Answer: Thomas Jefferson Correct!
+0. Who was the 41st president of the United States? Answer: George H. W. Bush Correct!
+0. Who was the 42nd president of the United States? Answer: Bill Clinton Correct!
 0. Who was the 44th president of the United States? Answer: Barack Obama Correct!
 0. Who was the 4th president of the United States? Answer: James Madison Correct!
-0. Who was the 12th president of the United States? Answer: Zachary Taylor Correct!
-0. Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
-0. Who was the 38th president of the United States? Answer: Gerald Ford Correct!
-0. Who was the 28th president of the United States? Answer: Woodrow Wilson Correct!
-0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
-1. The symbol 'H' refers to which chemical element? Answer: Hydrogen Correct!
-2. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
-3. Most of the earth's atmosphere consists of this gas. Answer: N Correct!
-5. The symbol 'Cu' refers to which chemical element? Answer: Copper Correct!
-6. Which of these elements is considered a Metal. Answer: Fe Correct!
-7. What is the symbol for Potassium? Answer: K Correct!
-8. The symbol 'Co' refers to which chemical element? Answer: Cobalt Correct!
-9. The symbol 'Au' refers to which chemical element? Answer: Gold Correct!
-10. This element helps give plants the energy they need to grow. Answer: P Correct!
-11. This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
-12. The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
+0. Who was the 8th president of the United States? Answer: Martin Van Buren Correct!
+0. Who wrote 1984? Answer: George Orwell Correct!
+0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
+0. Who wrote Lolita? Answer: Vladimir Nabokov Correct!
+0. Who wrote Lord of the Flies? Answer: William Golding Correct!
+0. Who wrote Mrs. Dalloway? Answer: Virginia Woolf Correct!
+0. Who wrote On the Road? Answer: Jack Kerouac Correct!
+0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
+0. Who wrote The Grapes of Wrath? Answer: John Steinbeck Correct!
+0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
+0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
+0. Who wrote Their Eyes Were Watching God? Answer: Zora Neale Hurston Correct!
+0. Who wrote Watchmen? Answer: Alan Moore Correct!
+0. Winston Churchill was prime minister of Britian during which war? Answer: World War II Correct!
