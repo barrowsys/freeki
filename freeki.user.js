@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Freeki Games Auto Doer
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  automatically answer trivia questions on freeki games
 // @author       BobbyBobson4888
 // @match        https://www.freekigames.com/*
@@ -27,9 +27,49 @@ function is(text, ans) {
     }
 }
 
+function get_results() {
+    var quizResults = document.querySelector("#quizResults")
+    var answers = quizResults.children
+    var data = ""
+    for(var i = 1; i < answers.length; i++) {
+        data += (answers[i].innerText || answers[i].textContent) + "\n"
+    }
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open("POST", "https://xmpp.bobson.me:4888/")
+    xmlhttp.send(data)
+    document.querySelector(".quizContainer").innerHTML += "<h3 style=\"text-align: center;\">Quiz answers automatically uploaded to ezra!<br>Thanks for making my script better!</h3>"
+}
+
 (function() {
     'use strict';
+    if(document.querySelector(".quizMedallion"))  {
+        get_results()
+    }
     question = document.querySelector(".quizQuestion").innerHTML
+    is("  What is the capital of Colorado?", " Denver")
+    is("  What is the capital of Georgia?", " Atlanta")
+    is("  What is the capital of Hawaii?", " Honolulu")
+    is("  What is the capital of Kentucky?", " Frankfort")
+    is("  What is the capital of Louisiana?", " Baton Rouge")
+    is("  What is the capital of Massachusetts?", " Boston")
+    is("  What is the capital of Minnesota?", " Saint Paul")
+    is("  What is the capital of New Mexico?", " Santa Fe")
+    is("  What is the capital of Pennsylvania?", " Harrisburg")
+    is("  What is the capital of Utah?", " Salt Lake City")
+    is("  What is the capital of West Virginia?", " Charleston")
+    is("  What is the capital of Wyoming?", " Cheyenne")
+    is(" What is the state bird of Delaware?", "Blue Hen Chicken")
+    is(" What is the state bird of Georgia?", "Brown Thrasher")
+    is(" What is the state bird of Idaho?", "Mountain Bluebird")
+    is(" What is the state bird of Kansas?", "Western Meadowlark")
+    is(" What is the state bird of Louisiana?", "Brown Pelican")
+    is(" What is the state bird of Maine?", "Black-Capped Chickadee")
+    is(" What is the state bird of Michigan?", "American Robin")
+    is(" What is the state bird of Nebraska?", "Western Meadowlark")
+    is(" What is the state bird of Nevada?", "Mountain Bluebird")
+    is(" What is the state bird of New Hampshire?", "Purple Finch")
+    is(" What is the state bird of New York?", "Eastern Bluebird")
+    is(" What is the state bird of Utah?", "California Gull")
     is("11 Southern states suceeded from the union in 1860 to form the _________ States of America.", "Confederate")
     is("Abraham Lincoln is most famous for _____________.", "Working to end slavery in America")
     is("Akbar created a thriving empire through what modern country?", "India")
@@ -173,7 +213,7 @@ function is(text, ans) {
     is("Where has Pharenor been imprisoned?", "Skythorn Tower")
     is("Where was President Abraham Lincoln assassinated?", "The Theatre")
     is("Which Plano charity has KingsIsle donated to?", "Children' Medical Center at Legacy in Plano")
-    is("Which Queen is mentioned in the Marleybone book "The Golden Age"?", "Ellen")
+    is("Which Queen is mentioned in the Marleybone book \"The Golden Age\"?", "Ellen")
     is("Which celebrity composed music for a KingsIsle game?", "Nick Jonas")
     is("Which early tax act made American settlers very angry pre-revolution?", "Stamp Act of 1765")
     is("Which element has a reddish color in a gas and liquid state?", "Br")
@@ -181,18 +221,18 @@ function is(text, ans) {
     is("Which of these elements is NOT considered a Metalloid.", "Sn")
     is("Which of these elements is considered a Metal.", "Fe")
     is("Which of these folks can you find in the Royal Museum?", "Clancy Pembroke")
-    is("Which state is known as the "Aloha State?"", "Hawaii")
-    is("Which state is known as the "Beehive State?"", "Utah")
-    is("Which state is known as the "Bluegrass State?"", "Kentucky")
-    is("Which state is known as the "Empire State?"", "New York")
-    is("Which state is known as the "First State?"", "Delaware")
-    is("Which state is known as the "Golden State?"", "California")
-    is("Which state is known as the "Great Lakes State?"", "Michigan")
-    is("Which state is known as the "Magnolia State?"", "Mississippi")
-    is("Which state is known as the "Pelican State?"", "Louisiana")
-    is("Which state is known as the "Prairie State?"", "Illinois")
-    is("Which state is known as the "Silver State?"", "Nevada")
-    is("Which state is known as the "Volunteer State?"", "Tennessee")
+    is("Which state is known as the \"Aloha State?\"", "Hawaii")
+    is("Which state is known as the \"Beehive State?\"", "Utah")
+    is("Which state is known as the \"Bluegrass State?\"", "Kentucky")
+    is("Which state is known as the \"Empire State?\"", "New York")
+    is("Which state is known as the \"First State?\"", "Delaware")
+    is("Which state is known as the \"Golden State?\"", "California")
+    is("Which state is known as the \"Great Lakes State?\"", "Michigan")
+    is("Which state is known as the \"Magnolia State?\"", "Mississippi")
+    is("Which state is known as the \"Pelican State?\"", "Louisiana")
+    is("Which state is known as the \"Prairie State?\"", "Illinois")
+    is("Which state is known as the \"Silver State?\"", "Nevada")
+    is("Which state is known as the \"Volunteer State?\"", "Tennessee")
     is("Which two amendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms?", "Fourteenth and Fifteenth")
     is("Which two ammendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms?", "Fourteenth and Fifteenth")
     is("Who Is NOT a member of the Council of Light?", "Cyrus Drake")
@@ -217,7 +257,7 @@ function is(text, ans) {
     is("Who makes the harpsicord for Shelus?", "Gretta Darkkettle")
     is("Who needs the healing potion from Master Yip?", "Binh Hoa")
     is("Who taunts: Why I oughta knock you to the moon, you pesky little creep!", "Mugsy")
-    is("Who tells you: "A shield is just as much a weapon as the sword."", "Mavra Flamewing")
+    is("Who tells you: \"A shield is just as much a weapon as the sword.\"", "Mavra Flamewing")
     is("Who tries to raise a Gorgon Army?", "Phorcys")
     is("Who was Margaret Thatcher?", "British Prime Minister")
     is("Who was the 10th president of the United States?", "John Tyler")
