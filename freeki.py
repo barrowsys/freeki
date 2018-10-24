@@ -1,5 +1,6 @@
 import argparse
 import re
+import time
 
 parser = argparse.ArgumentParser()
 parser.add_argument("task", help="What you want to do",
@@ -27,6 +28,7 @@ def prune():
 def build():
     question_re = re.compile(r"\d+\. (.*) Answer: (.*) Correct!")
     js_re = re.compile(r"\{js_text\}")
+    version_re = re.compile(r"\{version\}")
     js_text = ""
     with open("questions.txt", "r") as qfile:
         qlines = qfile.readlines()
@@ -36,6 +38,7 @@ def build():
     with open("template.js", "r") as js_file:
         template = js_file.read()
         js_text = js_re.sub(js_text, template)
+        js_text = version_re.sub(str(time.time()), template)
     with open("freeki.user.js", "w") as js_file:
         js_file.write(js_text)
     print("Built freeki.user.js")

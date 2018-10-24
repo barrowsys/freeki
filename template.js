@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Freeki Games Auto Doer
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      {version}
 // @description  automatically answer trivia questions on freeki games
 // @author       BobbyBobson4888
 // @match        https://www.freekigames.com/*
@@ -45,6 +45,6 @@ function get_results() {
     if(document.querySelector(".quizMedallion"))  {
         get_results()
     }
-    question = document.querySelector(".quizQuestion").innerHTML
+    question = document.querySelector(".quizQuestion").innerText || document.querySelector(".quizQuestion").textContent
 {js_text}
 })();

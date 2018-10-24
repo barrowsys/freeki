@@ -22,6 +22,18 @@
 0.  What is the state bird of New Hampshire? Answer: Purple Finch Correct!
 0.  What is the state bird of New York? Answer: Eastern Bluebird Correct!
 0.  What is the state bird of Utah? Answer: California Gull Correct!
+0.  Who was the 19th president of the United States? Answer: Rutherford B. Hayes Correct!
+0.  Who was the 20th president of the United States? Answer: James A. Garfield Correct!
+0.  Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
+0.  Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
+0.  Who was the 27th president of the United States? Answer: William Howard Taft Correct!
+0.  Who was the 29th president of the United States? Answer: Warren G. Harding Correct!
+0.  Who was the 34th president of the United States? Answer: Dwight D. Eisenhower Correct!
+0.  Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
+0.  Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
+0.  Who was the 5th president of the United States? Answer: James Monroe Correct!
+0.  Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
+0.  Who was the 7th president of the United States? Answer: Andrew Jackson Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
 0. Akbar created a thriving empire through what modern country? Answer: India Correct!
