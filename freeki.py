@@ -31,7 +31,7 @@ def build():
     with open("questions.txt", "r") as qfile:
         qlines = qfile.readlines()
         for line in qlines:
-            match = question_re.match(line)
+            match = question_re.match(line.replace("\"", "\\\""))
             js_text += f"    is(\"{match.group(1)}\", \"{match.group(2)}\")\n"
     with open("template.js", "r") as js_file:
         template = js_file.read()
