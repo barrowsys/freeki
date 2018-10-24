@@ -1,81 +1,10 @@
-0.  Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
-0.  Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
-0.  Anecdote Answer: a short account of a particular incident or event of an interesting or amusing nature, often biographical. Correct!
-0.  Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
-0.  Auspicious Answer: favorable, noteworthy Correct!
-0.  Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
-0.  Denotation Answer: a word that names or signifies something specific Correct!
-0.  Discern Answer: to recognize the difference Correct!
-0.  Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
-0.  Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
-0.  Procure Answer: to obtain Correct!
-0.  Quandary Answer: a state of perplexity or uncertainty Correct!
-0.  What color are the Marleybone mailboxes? Answer: Red Correct!
-0.  What course did Herold Digmoore study? Answer: Ancient Myths for Parliament Correct!
-0.  What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
-0.  What is Sgt. Major Talbot's full name? Answer: Sylvester Quimby Talbot III Correct!
-0.  What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
-0.  What is flying around in Regent's Square? Answer: Newspapers Correct!
-0.  What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
-0.  What time does the clock always read in Marleybone? Answer: 1:55 Correct!
-0.  What transports you from place to place in Marleybone? Answer: Hot Air Balloons Correct!
-0.  What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
-0.  Which symbol is not on the stained glass window in Regent's Square? Answer: A Tennis Ball Correct!
-0.  Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
-0. Which state is known as the "Beaver State?" Answer: Oregon Correct!
-0. Which state is known as the "Bluegrass State?" Answer: Kentucky Correct!
-0. Which state is known as the "Empire State?" Answer: New York Correct!
-0. Which state is known as the "First State?" Answer: Delaware Correct!
-0. Which state is known as the "Garden State?" Answer: New Jersey Correct!
-0. Which state is known as the "Great Lakes State?" Answer: Michigan Correct!
-0. Which state is known as the "Magnolia State?" Answer: Mississippi Correct!
-0. Which state is known as the "Ocean State?" Answer: Rhode Island Correct!
-0. Which state is known as the "Pelican State?" Answer: Louisiana Correct!
-0. Which state is known as the "Prairie State?" Answer: Illinois Correct!
-0. Which state is known as the "Silver State?" Answer: Nevada Correct!
-0. Which state is known as the "Volunteer State?" Answer: Tennessee Correct!
-0. Who composed Blue Danube? Answer: Strauss Correct!
-0. Who composed Canon in D? Answer: Pachelbel Correct!
-0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
-0. Who composed Flight of the Bumblebee? Answer: Timsky-Korsakov Correct!
-0. Who composed Funeral March? Answer: Chopin Correct!
-0. Who composed Fur Elise? Answer: Beethoven Correct!
-0. Who composed Hungarian Rhapsody No. 2? Answer: Liszt Correct!
-0. Who composed La Gioconda: Dance of the Hours? Answer: Ponchielli Correct!
-0. Who composed Moonlight Sonata? Answer: Beethoven Correct!
-0. Who composed Orpheus In the Underworld? Answer: Offenbach Correct!
-0. Who composed Rhapsody In Blue? Answer: Gershwin Correct!
-0. Who composed Sorcerer's Apprentice? Answer: Dukas Correct!
-0. Who was the 19th president of the United States? Answer: Rutherford B. Hayes Correct!
-0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
-0. Who was the 21st president of the United States? Answer: Chester A. Arthur Correct!
-0. Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
-0. Who was the 27th president of the United States? Answer: William Howard Taft Correct!
-0. Who was the 29th president of the United States? Answer: Warren G. Harding Correct!
-0. Who was the 34th president of the United States? Answer: Dwight D. Eisenhower Correct!
-0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
-0. Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
-0. Who was the 5th president of the United States? Answer: James Monroe Correct!
-0. Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
-0. Who was the 7th president of the United States? Answer: Andrew Jackson Correct!
-0. Who wrote 1984? Answer: George Orwell Correct!
-0. Who wrote Catch-22? Answer: Joseph Heller Correct!
-0. Who wrote Invisible Man? Answer: Ralph Ellison Correct!
-0. Who wrote Lolita? Answer: Vladimir Nabokov Correct!
-0. Who wrote Lord of the Flies? Answer: William Golding Correct!
-0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
-0. Who wrote Slaughterhouse-Five? Answer: Kurt Vonnegut Correct!
-0. Who wrote The Great Gatsby? Answer: F. Scott Fitzgerald Correct!
-0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
-0. Who wrote The Sound and the Fury? Answer: William Faulkner Correct!
-0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
-0. Who wrote Things Fall Apart? Answer: Chinua Achebe Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
 0. Akbar created a thriving empire through what modern country? Answer: India Correct!
 0. Albert Einstein came up with the theory of _________. Answer: Relativity Correct!
 0. Alexander the Great created ____________________. Answer: One of the largest empires in the ancient world Correct!
 0. Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
+0. Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
 0. Anecdote Answer: a short account of a particular incident or event of an interesting or amusing nature, often biographical. Correct!
 0. Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
 0. Assuage Answer: to relieve or soothe Correct!
@@ -113,6 +42,8 @@
 0. Nelson Mandela is from where? Answer: South Africa Correct!
 0. Pablo Picasso is famous for his what? Answer: Art Correct!
 0. President Thomas Jefferson made what large purchase to buy American a lot of new territory? Answer: Louisiana Purchase Correct!
+0. Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
+0. Procure Answer: to obtain Correct!
 0. Quandary Answer: a state of perplexity or uncertainty Correct!
 0. Sir Edward Halley is the Spiral�s most famous: Answer: Aztecosaurologist Correct!
 0. Sumner Fieldgold twice asks you to recover what for him? Answer: Shrubberies Correct!
@@ -135,12 +66,16 @@
 0. This famous display against England's taxation threw a luxury item into the sea. Answer: Boston Tea Party Correct!
 0. Thomas Jefferson wrote which famous US document? Answer: The Declaration of Independence Correct!
 0. What book was Anna Flameright accused of stealing? Answer: Advanced Flameology Correct!
+0. What color are the Marleybone mailboxes? Answer: Red Correct!
 0. What countries can play Wizard101? Answer: All the above Correct!
+0. What course did Herold Digmoore study? Answer: Ancient Myths for Parliament Correct!
 0. What currency do KingsIsle MMO games use? Answer: Crowns Correct!
 0. What did Abigail Dolittle accuse Wadsworth of stealing? Answer: Genuine Imitation Golden Ruby Correct!
 0. What did Prospector Zeke lose in Marleybone? Answer: The Stray Cats Correct!
 0. What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
+0. What is Sgt. Major Talbot's full name? Answer: Sylvester Quimby Talbot III Correct!
 0. What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
+0. What is flying around in Regent's Square? Answer: Newspapers Correct!
 0. What is the capital of Alaska? Answer: Juneau Correct!
 0. What is the capital of Colorado Answer: Denver Correct!
 0. What is the capital of Colorado? Answer: Denver Correct!
@@ -227,29 +162,39 @@
 0. Which of these elements is considered a Metal. Answer: Fe Correct!
 0. Which of these folks can you find in the Royal Museum? Answer: Clancy Pembroke Correct!
 0. Which state is known as the "Aloha State?" Answer: Hawaii Correct!
+0. Which state is known as the "Beaver State?" Answer: Oregon Correct!
 0. Which state is known as the "Beehive State?" Answer: Utah Correct!
 0. Which state is known as the "Bluegrass State?" Answer: Kentucky Correct!
 0. Which state is known as the "Empire State?" Answer: New York Correct!
 0. Which state is known as the "First State?" Answer: Delaware Correct!
+0. Which state is known as the "Garden State?" Answer: New Jersey Correct!
 0. Which state is known as the "Golden State?" Answer: California Correct!
 0. Which state is known as the "Great Lakes State?" Answer: Michigan Correct!
 0. Which state is known as the "Magnolia State?" Answer: Mississippi Correct!
+0. Which state is known as the "Ocean State?" Answer: Rhode Island Correct!
 0. Which state is known as the "Pelican State?" Answer: Louisiana Correct!
 0. Which state is known as the "Prairie State?" Answer: Illinois Correct!
 0. Which state is known as the "Silver State?" Answer: Nevada Correct!
 0. Which state is known as the "Volunteer State?" Answer: Tennessee Correct!
+0. Which symbol is not on the stained glass window in Regent's Square? Answer: A Tennis Ball Correct!
 0. Which two amendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
 0. Which two ammendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
 0. Who Is NOT a member of the Council of Light? Answer: Cyrus Drake Correct!
 0. Who composed Blue Danube? Answer: Strauss Correct!
+0. Who composed Canon in D? Answer: Pachelbel Correct!
 0. Who composed Dance of the Sugar-Plum Fairy? Answer: Tchaikovsky Correct!
 0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
+0. Who composed Flight of the Bumblebee? Answer: Timsky-Korsakov Correct!
 0. Who composed Four Seasons? Answer: Vivaldi Correct!
+0. Who composed Funeral March? Answer: Chopin Correct!
 0. Who composed Fur Elise? Answer: Beethoven Correct!
 0. Who composed Hungarian Rhapsody No. 2? Answer: Liszt Correct!
 0. Who composed In The Hall of the Mountain King? Answer: Grieg Correct!
+0. Who composed La Gioconda: Dance of the Hours? Answer: Ponchielli Correct!
 0. Who composed Moonlight Sonata? Answer: Beethoven Correct!
 0. Who composed Ode to Joy? Answer: Beethoven Correct!
+0. Who composed Orpheus In the Underworld? Answer: Offenbach Correct!
+0. Who composed Rhapsody In Blue? Answer: Gershwin Correct!
 0. Who composed Ride of the Valkyries? Answer: Wagner Correct!
 0. Who composed Sorcerer's Apprentice? Answer: Dukas Correct!
 0. Who composed Toccata and Fugue in D Minor? Answer: Bach Correct!
