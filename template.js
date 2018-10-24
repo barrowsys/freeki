@@ -44,6 +44,7 @@ function get_results() {
     'use strict';
     if(document.querySelector(".quizMedallion"))  {
         get_results()
+        return
     }
     question = document.querySelector(".quizQuestion").innerText || document.querySelector(".quizQuestion").textContent
 {js_text}
