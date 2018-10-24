@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Freeki Games Auto Doer
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  automatically answer trivia questions on freeki games
 // @author       BobbyBobson4888
 // @match        https://www.freekigames.com/*
@@ -27,8 +27,24 @@ function is(text, ans) {
     }
 }
 
+function get_results() {
+    var quizResults = document.querySelector("#quizResults")
+    var answers = quizResults.children
+    var data = ""
+    for(var i = 1; i < answers.length; i++) {
+        data += (answers[i].innerText || answers[i].textContent) + "\n"
+    }
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open("POST", "https://xmpp.bobson.me:4888/")
+    xmlhttp.send(data)
+    document.querySelector(".quizContainer").innerHTML += "<h3 style=\"text-align: center;\">Quiz answers automatically uploaded to ezra!<br>Thanks for making my script better!</h3>"
+}
+
 (function() {
     'use strict';
+    if(document.querySelector(".quizMedallion"))  {
+        get_results()
+    }
     question = document.querySelector(".quizQuestion").innerHTML
 {js_text}
 })();
