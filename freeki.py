@@ -38,7 +38,7 @@ def build():
     with open("template.js", "r") as js_file:
         template = js_file.read()
         js_text = js_re.sub(js_text, template)
-        js_text = version_re.sub(str(time.time()), template)
+        js_text = version_re.sub(str(time.time()), js_text)
     with open("freeki.user.js", "w") as js_file:
         js_file.write(js_text)
     print("Built freeki.user.js")
