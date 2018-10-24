@@ -1,8 +1,13 @@
 # Freeki Games Auto Answerer
 
-Wizard101, that is all (also i cobbled it together in an hour)
+Wizard101, that is all (also i cobbled it together in a few hours)
 
-If you do any trivia quizzes, once you complete one, click "see correct answers", then copy all of the text (starting from "1." and ending at the last "Correct!") and send it to me (any platform works, check my website), so I can add those answers to the script. Thanks!
+Quiz questions that are in the script are automatically selected and submitted. Quiz questions that are not in the script are not.
 
-TODO:  
-- Automate pruning the questions list of duplicates
+At the end of the quiz, where it shows the score, the script will automatically upload the answers to me so I can add them to the script.
+
+# For Developers?
+
+To build the script, run "freeki.py build"  
+To prune the questions list of duplicates, run "freeki.py prune"  
+To do both, run "freeki.py all"
