@@ -1,4 +1,5 @@
 # Freeki Games Auto Answerer
+[![Generic badge](https://img.shields.io/badge/Status-Pretty%20Much%20Done-brightgreen.svg)](https://shields.io/)
 
 Wizard101, that is all (also i cobbled it together in a few hours)
 
