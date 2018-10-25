@@ -12,7 +12,6 @@ At the end of the quiz, where it shows the score, the script will automatically 
 You'll need the Tampermonkey extension. Then, you need to get the userscript.  
 - You can find the latest release in my keybase public folder at https://bobbybobson4888.keybase.pub/freeki.user.js  (this will update when you tell tampermonkey to update scripts)
 - You can compile the script yourself, by cloning this repository and running "python3 freeki.py all"
-- You can download the latest release from github (likely out of date).
 
 Opening the freeki.user.js file in your browser should open the dialog to install it with tampermonkey.
 
