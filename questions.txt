@@ -1,15 +1,55 @@
-0.  The symbol 'Co' refers to which chemical element? Answer: Cobalt Correct!
-0.  The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
-0.  The symbol 'Pb' refers to which chemical element? Answer: Lead Correct!
-0.  The symbol 'S' refers to which chemical element? Answer: Sulfur Correct!
-0.  This element helps give plants the energy they need to grow. Answer: P Correct!
-0.  This element is the building block of life. Answer: C Correct!
-0.  This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
-0.  Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
-0.  Which element has a silver-gray appearance? Answer: Zn Correct!
-0.  Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
-0.  Which of these elements is NOT considered a Noble Gas. Answer: H Correct!
-0.  Which of these elements is considered a Metal. Answer: Fe Correct!
+0.  A period is also used to __________ words. Answer: Abbreviate Correct!
+0.  A semi-colon is primarily used to: Answer: Join two connected sentences Correct!
+0.  Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
+0.  Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
+0.  An exclamation mark is often used to express what? Answer: Excitement Correct!
+0.  Anecdote Answer: a short account of a particular incident or event of an interesting or amusing nature, often biographical. Correct!
+0.  Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
+0.  Arthur Wethersfield is A:.. Answer: Dog Correct!
+0.  Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
+0.  Conceit Answer: an excessively favorable opinion of one's own ability, importance or wit Correct!
+0.  Denotation Answer: a word that names or signifies something specific Correct!
+0.  Discern Answer: to recognize the difference Correct!
+0.  Enigma Answer: a mystery Correct!
+0.  Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
+0.  Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
+0.  Quandary Answer: a state of perplexity or uncertainty Correct!
+0.  Quotation marks are used to do what? Answer: Show speech Correct!
+0.  Three periods in a row are called _________. Answer: Ellipses Correct!
+0.  What color are the Marleybone mailboxes? Answer: Red Correct!
+0.  What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
+0.  What initials were on the doctor's glove? Answer: XX Correct!
+0.  What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
+0.  What is flying around in Regent's Square? Answer: Newspapers Correct!
+0.  What is the apostrophe's main function? Answer: Show ownership or posession Correct!
+0.  What is the capital of Arizona? Answer: Phoenix Correct!
+0.  What is the capital of Delaware? Answer: Dover Correct!
+0.  What is the capital of Mississippi? Answer: Jackson Correct!
+0.  What is the capital of Montana? Answer: Helena Correct!
+0.  What is the capital of Nebraska? Answer: Lincoln Correct!
+0.  What is the capital of New Hampshire? Answer: Concord Correct!
+0.  What is the capital of North Carolina? Answer: Raleigh Correct!
+0.  What is the capital of Pennsylvania? Answer: Harrisburg Correct!
+0.  What is the capital of Texas? Answer: Austin Correct!
+0.  What is the capital of Washington? Answer: Olympia Correct!
+0.  What is the capital of West Virginia? Answer: Charleston Correct!
+0.  What is the capital of Wisconsin? Answer: Madison Correct!
+0.  What time does the clock always read in Marleybone? Answer: 1:55 Correct!
+0.  What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
+0.  Where does the period go in a sentence? Answer: At the end Correct!
+0.  Which date below uses a comma correctly? Answer: January 1st, 2014 Correct!
+0.  Which is not a street in Regent's Square? Answer: Fleabitten Ave Correct!
+0.  Which of the following is NOT a reason to use an exclamation mark (!) ? Answer: Boredom Correct!
+0.  Which of these folks can you find in the Royal Museum? Answer: Clancy Pembroke Correct!
+0.  Which sentence below uses a comma(s) correctly? Answer: Megan, who lives next door, loves dogs. Correct!
+0.  Which sentence correctly uses an apostrophe? Answer: I can't do it, because it is too hard. Correct!
+0.  Which sentence correctly uses an apostrophe? Answer: The horse's tail is so pretty. Correct!
+0.  Which symbol is not on the stained glass window in Regent's Square? Answer: A Tennis Ball Correct!
+0.  Who is not an officer you'll find around Marleybone? Answer: Officer Digmore Correct!
+0. 11 Southern states succeeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
+0. How long did the Civil War last? Answer: Four Years Correct!
+0. Most of the original American settlers were from what country? Answer: England Correct!
+0. President Thomas Jefferson made what large purchase to buy American a lot of new territory? Answer: Louisiana Purchase Correct!
 0. The symbol 'Co' refers to which chemical element? Answer: Cobalt Correct!
 0. The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
 0. The symbol 'Pb' refers to which chemical element? Answer: Lead Correct!
@@ -17,23 +57,68 @@
 0. This element helps give plants the energy they need to grow. Answer: P Correct!
 0. This element is the building block of life. Answer: C Correct!
 0. This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
-0. What is the state bird of Indiana? Answer: Cardinal Correct!
-0. What is the state bird of Kentucky? Answer: Cardinal Correct!
-0. What is the state bird of Maine? Answer: Black-Capped Chickadee Correct!
-0. What is the state bird of Massachusetts? Answer: Black-Capped Chickadee Correct!
+0. This famous American colony is in modern Massachusetts. Answer: Plymouth Correct!
+0. This famous display against England's taxation threw a luxury item into the sea. Answer: Boston Tea Party Correct!
+0. What is the state bird of California? Answer: California Quail Correct!
+0. What is the state bird of Colorado? Answer: Lark Bunting Correct!
+0. What is the state bird of Delaware? Answer: Blue Hen Chicken Correct!
+0. What is the state bird of Florida? Answer: Mockingbird Correct!
+0. What is the state bird of Louisiana? Answer: Brown Pelican Correct!
+0. What is the state bird of Minnesota? Answer: Common Loon Correct!
 0. What is the state bird of Montana? Answer: Western Meadowlark Correct!
-0. What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
-0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
-0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
-0. What is the state bird of Pennsylvania? Answer: Ruffed Grouse Correct!
-0. What is the state bird of South Carolina? Answer: Carolina Wren Correct!
-0. What is the state bird of Tennessee? Answer: Mockingbird Correct!
-0. What is the state bird of West Virginia? Answer: Cardinal Correct!
+0. What is the state bird of New Jersey? Answer: American Goldfinch Correct!
+0. What is the state bird of North Dakota? Answer: Western Meadowlark Correct!
+0. What is the state bird of Texas? Answer: Mockingbird Correct!
+0. What is the state bird of Wisconsin? Answer: American Robin Correct!
+0. What is the state bird of Wyoming? Answer: Western Meadowlark Correct!
+0. What year did the British surrender in the American Revolution? Answer: 1781 Correct!
+0. What year was the Declaration of Independence signed? Answer: 1776 Correct!
+0. Where was President Abraham Lincoln assassinated? Answer: The Theatre Correct!
+0. Which early tax act made American settlers very angry pre-revolution? Answer: Stamp Act of 1765 Correct!
 0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
 0. Which element has a silver-gray appearance? Answer: Zn Correct!
+0. Which natural resource was a large reason many Americans choose to journey westward in the 1800's? Answer: Gold Correct!
 0. Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
 0. Which of these elements is NOT considered a Noble Gas. Answer: H Correct!
 0. Which of these elements is considered a Metal. Answer: Fe Correct!
+0. Which state is known as the "Aloha State?" Answer: Hawaii Correct!
+0. Which state is known as the "Beaver State?" Answer: Oregon Correct!
+0. Which state is known as the "Beehive State?" Answer: Utah Correct!
+0. Which state is known as the "First State?" Answer: Delaware Correct!
+0. Which state is known as the "Lone Star State?" Answer: Texas Correct!
+0. Which state is known as the "Ocean State?" Answer: Rhode Island Correct!
+0. Which state is known as the "Pelican State?" Answer: Louisiana Correct!
+0. Which state is known as the "Pine Tree State?" Answer: Maine Correct!
+0. Which state is known as the "Prairie State?" Answer: Illinois Correct!
+0. Which state is known as the "Silver State?" Answer: Nevada Correct!
+0. Which state is known as the "Sunflower State?" Answer: Kansas Correct!
+0. Which state is known as the "Volunteer State?" Answer: Tennessee Correct!
+0. Who did the United States purchase Alaska from? Answer: Russia Correct!
+0. Who was the 10th president of the United States? Answer: John Tyler Correct!
+0. Who was the 20th president of the United States? Answer: James A. Garfield Correct!
+0. Who was the 23rd president of the United States? Answer: Benjamin Harrison Correct!
+0. Who was the 29th president of the United States? Answer: Warren G. Harding Correct!
+0. Who was the 30th president of the United States? Answer: Calvin Coolidge Correct!
+0. Who was the 32nd president of the United States? Answer: Franklin D. Roosevelt Correct!
+0. Who was the 34th president of the United States? Answer: Dwight D. Eisenhower Correct!
+0. Who was the 35th president of the United States? Answer: John F. Kennedy Correct!
+0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
+0. Who was the 44th president of the United States? Answer: Barack Obama Correct!
+0. Who was the 4th president of the United States? Answer: James Madison Correct!
+0. Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
+0. Who wrote 1984? Answer: George Orwell Correct!
+0. Who wrote A Clockwork Orange? Answer: Anthony Burgess Correct!
+0. Who wrote Animal Farm? Answer: George Orwell Correct!
+0. Who wrote Beloved? Answer: Toni Morrison Correct!
+0. Who wrote Catch-22? Answer: Joseph Heller Correct!
+0. Who wrote On the Road? Answer: Jack Kerouac Correct!
+0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
+0. Who wrote Slaughterhouse-Five? Answer: Kurt Vonnegut Correct!
+0. Who wrote The Catcher in the Rye? Answer: J.D. Salinger Correct!
+0. Who wrote The Lion, The Witch and the Wardrobe? Answer: C.S. Lewis Correct!
+0. Who wrote The Sound and the Fury? Answer: William Faulkner Correct!
+0. Who wrote Watchmen? Answer: Alan Moore Correct!
+0. 11 Southern states succeeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
 0. Akbar created a thriving empire through what modern country? Answer: India Correct!
