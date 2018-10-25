@@ -16,6 +16,13 @@ You'll need the Tampermonkey extension. Then, you need to get the userscript.
 
 Opening the freeki.user.js file in your browser should open the dialog to install it with tampermonkey.
 
+# Update Information
+
+Every hour on the hour (that my computer is on, which is pretty much all the time), the questions list is updated with new questions, the userscript is compiled, and the compiled script is stored in my keybase public folder.  
+Every day at midnight (that my computer is on, which is pretty much all the time), the updated questions list is committed and pushed to this git repository.  
+
+In the future I might slow these down.
+
 # For Developers
 
 To prune the questions list of duplicates, run "freeki.py prune"  
