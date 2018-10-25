@@ -1,3 +1,39 @@
+0.  The symbol 'Co' refers to which chemical element? Answer: Cobalt Correct!
+0.  The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
+0.  The symbol 'Pb' refers to which chemical element? Answer: Lead Correct!
+0.  The symbol 'S' refers to which chemical element? Answer: Sulfur Correct!
+0.  This element helps give plants the energy they need to grow. Answer: P Correct!
+0.  This element is the building block of life. Answer: C Correct!
+0.  This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
+0.  Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
+0.  Which element has a silver-gray appearance? Answer: Zn Correct!
+0.  Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
+0.  Which of these elements is NOT considered a Noble Gas. Answer: H Correct!
+0.  Which of these elements is considered a Metal. Answer: Fe Correct!
+0. The symbol 'Co' refers to which chemical element? Answer: Cobalt Correct!
+0. The symbol 'F' refers to which chemical element? Answer: Fluorine Correct!
+0. The symbol 'Pb' refers to which chemical element? Answer: Lead Correct!
+0. The symbol 'S' refers to which chemical element? Answer: Sulfur Correct!
+0. This element helps give plants the energy they need to grow. Answer: P Correct!
+0. This element is the building block of life. Answer: C Correct!
+0. This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
+0. What is the state bird of Indiana? Answer: Cardinal Correct!
+0. What is the state bird of Kentucky? Answer: Cardinal Correct!
+0. What is the state bird of Maine? Answer: Black-Capped Chickadee Correct!
+0. What is the state bird of Massachusetts? Answer: Black-Capped Chickadee Correct!
+0. What is the state bird of Montana? Answer: Western Meadowlark Correct!
+0. What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
+0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
+0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
+0. What is the state bird of Pennsylvania? Answer: Ruffed Grouse Correct!
+0. What is the state bird of South Carolina? Answer: Carolina Wren Correct!
+0. What is the state bird of Tennessee? Answer: Mockingbird Correct!
+0. What is the state bird of West Virginia? Answer: Cardinal Correct!
+0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
+0. Which element has a silver-gray appearance? Answer: Zn Correct!
+0. Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
+0. Which of these elements is NOT considered a Noble Gas. Answer: H Correct!
+0. Which of these elements is considered a Metal. Answer: Fe Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. Abraham Lincoln is most famous for _____________. Answer: Working to end slavery in America Correct!
 0. Akbar created a thriving empire through what modern country? Answer: India Correct!
@@ -116,7 +152,9 @@
 0. What is the state bird of Hawaii? Answer: Nene Correct!
 0. What is the state bird of Idaho? Answer: Mountain Bluebird Correct!
 0. What is the state bird of Illinois? Answer: Cardinal Correct!
+0. What is the state bird of Indiana? Answer: Cardinal Correct!
 0. What is the state bird of Kansas? Answer: Western Meadowlark Correct!
+0. What is the state bird of Kentucky? Answer: Cardinal Correct!
 0. What is the state bird of Louisiana? Answer: Brown Pelican Correct!
 0. What is the state bird of Maine? Answer: Black-Capped Chickadee Correct!
 0. What is the state bird of Massachusetts? Answer: Black-Capped Chickadee Correct!
@@ -124,12 +162,15 @@
 0. What is the state bird of Minnesota? Answer: Common Loon Correct!
 0. What is the state bird of Mississippi? Answer: Mockingbird Correct!
 0. What is the state bird of Missouri? Answer: Eastern Bluebird Correct!
+0. What is the state bird of Montana? Answer: Western Meadowlark Correct!
 0. What is the state bird of Nebraska? Answer: Western Meadowlark Correct!
 0. What is the state bird of Nevada? Answer: Mountain Bluebird Correct!
 0. What is the state bird of New Hampshire? Answer: Purple Finch Correct!
 0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
 0. What is the state bird of Ohio? Answer: Cardinal Correct!
 0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
+0. What is the state bird of Pennsylvania? Answer: Ruffed Grouse Correct!
+0. What is the state bird of South Carolina? Answer: Carolina Wren Correct!
 0. What is the state bird of South Dakota? Answer: Ring-Necked Pheasant Correct!
 0. What is the state bird of Tennessee? Answer: Mockingbird Correct!
 0. What is the state bird of Texas? Answer: Mockingbird Correct!
@@ -157,8 +198,10 @@
 0. Which celebrity composed music for a KingsIsle game? Answer: Nick Jonas Correct!
 0. Which early tax act made American settlers very angry pre-revolution? Answer: Stamp Act of 1765 Correct!
 0. Which element has a reddish color in a gas and liquid state? Answer: Br Correct!
+0. Which element has a silver-gray appearance? Answer: Zn Correct!
 0. Which natural resource was a large reason many Americans choose to journey westward in the 1800's? Answer: Gold Correct!
 0. Which of these elements is NOT considered a Metalloid. Answer: Sn Correct!
+0. Which of these elements is NOT considered a Noble Gas. Answer: H Correct!
 0. Which of these elements is considered a Metal. Answer: Fe Correct!
 0. Which of these folks can you find in the Royal Museum? Answer: Clancy Pembroke Correct!
 0. Which state is known as the "Aloha State?" Answer: Hawaii Correct!
