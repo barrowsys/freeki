@@ -1,3 +1,87 @@
+0.  Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
+0.  Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
+0.  Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
+0.  Arthur Wethersfield is A:.. Answer: Dog Correct!
+0.  Assuage Answer: to relieve or soothe Correct!
+0.  Auspicious Answer: favorable, noteworthy Correct!
+0.  Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
+0.  Conceit Answer: an excessively favorable opinion of one's own ability, importance or wit Correct!
+0.  Conspicuous Answer: noticeable, obvious Correct!
+0.  Enigma Answer: a mystery Correct!
+0.  Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
+0.  Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
+0.  Quandary Answer: a state of perplexity or uncertainty Correct!
+0.  What did Prospector Zeke lose in Marleybone? Answer: The Stray Cats Correct!
+0.  What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
+0.  What initials were on the doctor's glove? Answer: XX Correct!
+0.  What is Sgt. Major Talbot's full name? Answer: Sylvester Quimby Talbot III Correct!
+0.  What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
+0.  What is flying around in Regent's Square? Answer: Newspapers Correct!
+0.  What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
+0.  What time does the clock always read in Marleybone? Answer: 1:55 Correct!
+0.  What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
+0.  Which is not a street in Regent's Square? Answer: Fleabitten Ave Correct!
+0.  Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
+0. Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
+0. Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
+0. Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
+0. Arthur Wethersfield is A:.. Answer: Dog Correct!
+0. Assuage Answer: to relieve or soothe Correct!
+0. Auspicious Answer: favorable, noteworthy Correct!
+0. Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
+0. Conceit Answer: an excessively favorable opinion of one's own ability, importance or wit Correct!
+0. Conspicuous Answer: noticeable, obvious Correct!
+0. Enigma Answer: a mystery Correct!
+0. Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
+0. Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
+0. Quandary Answer: a state of perplexity or uncertainty Correct!
+0. What did Prospector Zeke lose in Marleybone? Answer: The Stray Cats Correct!
+0. What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
+0. What initials were on the doctor's glove? Answer: XX Correct!
+0. What is Sgt. Major Talbot's full name? Answer: Sylvester Quimby Talbot III Correct!
+0. What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
+0. What is flying around in Regent's Square? Answer: Newspapers Correct!
+0. What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
+0. What time does the clock always read in Marleybone? Answer: 1:55 Correct!
+0. What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
+0. Which is not a street in Regent's Square? Answer: Fleabitten Ave Correct!
+0. Who composed Blue Danube? Answer: Strauss Correct!
+0. Who composed Carnival of the Animals? Answer: Saint-Saens Correct!
+0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
+0. Who composed Flight of the Bumblebee? Answer: Timsky-Korsakov Correct!
+0. Who composed Four Seasons? Answer: Vivaldi Correct!
+0. Who composed Hungarian Rhapsody No. 2? Answer: Liszt Correct!
+0. Who composed La Gioconda: Dance of the Hours? Answer: Ponchielli Correct!
+0. Who composed Moonlight Sonata? Answer: Beethoven Correct!
+0. Who composed Ode to Joy? Answer: Beethoven Correct!
+0. Who composed Rhapsody In Blue? Answer: Gershwin Correct!
+0. Who composed Ride of the Valkyries? Answer: Wagner Correct!
+0. Who composed the William Tell Overture? Answer: Rossini Correct!
+0. Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
+0. Who was the 12th president of the United States? Answer: Zachary Taylor Correct!
+0. Who was the 16th president of the United States? Answer: Abraham Lincoln Correct!
+0. Who was the 24th president of the United States? Answer: Grover Cleveland Correct!
+0. Who was the 27th president of the United States? Answer: William Howard Taft Correct!
+0. Who was the 31st president of the United States? Answer: Herbert Hoover Correct!
+0. Who was the 35th president of the United States? Answer: John F. Kennedy Correct!
+0. Who was the 37th president of the United States? Answer: Richard Nixon Correct!
+0. Who was the 3rd president of the United States? Answer: Thomas Jefferson Correct!
+0. Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
+0. Who was the 42nd president of the United States? Answer: Bill Clinton Correct!
+0. Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
+0. Who was the 9th president of the United States? Answer: William Henry Harrison Correct!
+0. Who wrote Are You There God? It's Me, Margaret? Answer: Judy Blume Correct!
+0. Who wrote Beloved? Answer: Toni Morrison Correct!
+0. Who wrote Catch-22? Answer: Joseph Heller Correct!
+0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
+0. Who wrote Lord of the Flies? Answer: William Golding Correct!
+0. Who wrote Mrs. Dalloway? Answer: Virginia Woolf Correct!
+0. Who wrote Never Let Me Go? Answer: Kazuo Ishiguro Correct!
+0. Who wrote Slaughterhouse-Five? Answer: Kurt Vonnegut Correct!
+0. Who wrote The Grapes of Wrath? Answer: John Steinbeck Correct!
+0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
+0. Who wrote The Lion, The Witch and the Wardrobe? Answer: C.S. Lewis Correct!
+0. Who wrote The Lord of the Rings? Answer: J.R.R. Tolkien Correct!
 0. 11 Southern states succeeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. A period is also used to __________ words. Answer: Abbreviate Correct!
@@ -95,6 +179,7 @@
 0. What is the capital of Hawaii? Answer: Honolulu Correct!
 0. What is the capital of Indiana Answer: Indianapolis Correct!
 0. What is the capital of Indiana? Answer: Indianapolis Correct!
+0. What is the capital of Kansas? Answer: Topeka Correct!
 0. What is the capital of Kentucky? Answer: Frankfort Correct!
 0. What is the capital of Louisiana? Answer: Baton Rouge Correct!
 0. What is the capital of Maryland Answer: Annapolis Correct!
@@ -110,10 +195,12 @@
 0. What is the capital of New Jersey? Answer: Trenton Correct!
 0. What is the capital of New Mexico? Answer: Santa Fe Correct!
 0. What is the capital of North Carolina? Answer: Raleigh Correct!
+0. What is the capital of North Dakota? Answer: Bismark Correct!
 0. What is the capital of Ohio? Answer: Columbus Correct!
 0. What is the capital of Oklahoma Answer: Oklahoma City Correct!
 0. What is the capital of Pennsylvania? Answer: Harrisburg Correct!
 0. What is the capital of South Dakota Answer: Pierre Correct!
+0. What is the capital of South Dakota? Answer: Pierre Correct!
 0. What is the capital of Tennessee Answer: Nashville Correct!
 0. What is the capital of Texas Answer: Austin Correct!
 0. What is the capital of Texas? Answer: Austin Correct!
@@ -152,6 +239,7 @@
 0. What is the state bird of New Hampshire? Answer: Purple Finch Correct!
 0. What is the state bird of New Jersey? Answer: American Goldfinch Correct!
 0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
+0. What is the state bird of North Carolina? Answer: Cardinal Correct!
 0. What is the state bird of North Dakota? Answer: Western Meadowlark Correct!
 0. What is the state bird of Ohio? Answer: Cardinal Correct!
 0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
@@ -161,6 +249,7 @@
 0. What is the state bird of Tennessee? Answer: Mockingbird Correct!
 0. What is the state bird of Texas? Answer: Mockingbird Correct!
 0. What is the state bird of Utah? Answer: California Gull Correct!
+0. What is the state bird of Vermont? Answer: Hermit Thrush Correct!
 0. What is the state bird of West Virginia? Answer: Cardinal Correct!
 0. What is the state bird of Wisconsin? Answer: American Robin Correct!
 0. What is the state bird of Wyoming? Answer: Western Meadowlark Correct!
@@ -202,7 +291,9 @@
 0. Which state is known as the "Beaver State?" Answer: Oregon Correct!
 0. Which state is known as the "Beehive State?" Answer: Utah Correct!
 0. Which state is known as the "Bluegrass State?" Answer: Kentucky Correct!
+0. Which state is known as the "Constitution State?" Answer: Connecticut Correct!
 0. Which state is known as the "Empire State?" Answer: New York Correct!
+0. Which state is known as the "Evergreen State?" Answer: Washington Correct!
 0. Which state is known as the "First State?" Answer: Delaware Correct!
 0. Which state is known as the "Garden State?" Answer: New Jersey Correct!
 0. Which state is known as the "Golden State?" Answer: California Correct!
@@ -222,6 +313,7 @@
 0. Who Is NOT a member of the Council of Light? Answer: Cyrus Drake Correct!
 0. Who composed Blue Danube? Answer: Strauss Correct!
 0. Who composed Canon in D? Answer: Pachelbel Correct!
+0. Who composed Carnival of the Animals? Answer: Saint-Saens Correct!
 0. Who composed Dance of the Sugar-Plum Fairy? Answer: Tchaikovsky Correct!
 0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
 0. Who composed Flight of the Bumblebee? Answer: Timsky-Korsakov Correct!
@@ -238,6 +330,7 @@
 0. Who composed Ride of the Valkyries? Answer: Wagner Correct!
 0. Who composed Sorcerer's Apprentice? Answer: Dukas Correct!
 0. Who composed Toccata and Fugue in D Minor? Answer: Bach Correct!
+0. Who composed the William Tell Overture? Answer: Rossini Correct!
 0. Who did the United States purchase Alaska from? Answer: Russia Correct!
 0. Who grants the first Shadow Magic spell? Answer: Sophia DarkSide Correct!
 0. Who is Bill Tanner's sister? Answer: Sarah Tanner Correct!
@@ -275,6 +368,7 @@
 0. Who was the 34th president of the United States? Answer: Dwight D. Eisenhower Correct!
 0. Who was the 35th president of the United States? Answer: John F. Kennedy Correct!
 0. Who was the 36th president of the United States? Answer: Lyndon B. Johnson Correct!
+0. Who was the 37th president of the United States? Answer: Richard Nixon Correct!
 0. Who was the 38th president of the United States? Answer: Gerald Ford Correct!
 0. Who was the 39th president of the United States? Answer: Jimmy Carter Correct!
 0. Who was the 3rd president of the United States? Answer: Thomas Jefferson Correct!
@@ -287,9 +381,11 @@
 0. Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
 0. Who was the 7th president of the United States? Answer: Andrew Jackson Correct!
 0. Who was the 8th president of the United States? Answer: Martin Van Buren Correct!
+0. Who was the 9th president of the United States? Answer: William Henry Harrison Correct!
 0. Who wrote 1984? Answer: George Orwell Correct!
 0. Who wrote A Clockwork Orange? Answer: Anthony Burgess Correct!
 0. Who wrote Animal Farm? Answer: George Orwell Correct!
+0. Who wrote Are You There God? It's Me, Margaret? Answer: Judy Blume Correct!
 0. Who wrote Beloved? Answer: Toni Morrison Correct!
 0. Who wrote Catch-22? Answer: Joseph Heller Correct!
 0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
@@ -297,6 +393,7 @@
 0. Who wrote Lolita? Answer: Vladimir Nabokov Correct!
 0. Who wrote Lord of the Flies? Answer: William Golding Correct!
 0. Who wrote Mrs. Dalloway? Answer: Virginia Woolf Correct!
+0. Who wrote Never Let Me Go? Answer: Kazuo Ishiguro Correct!
 0. Who wrote On the Road? Answer: Jack Kerouac Correct!
 0. Who wrote One Flew Over the Cuckoo's Nest? Answer: Ken Kesey Correct!
 0. Who wrote Slaughterhouse-Five? Answer: Kurt Vonnegut Correct!
@@ -305,6 +402,7 @@
 0. Who wrote The Great Gatsby? Answer: F. Scott Fitzgerald Correct!
 0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
 0. Who wrote The Lion, The Witch and the Wardrobe? Answer: C.S. Lewis Correct!
+0. Who wrote The Lord of the Rings? Answer: J.R.R. Tolkien Correct!
 0. Who wrote The Sound and the Fury? Answer: William Faulkner Correct!
 0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
 0. Who wrote Their Eyes Were Watching God? Answer: Zora Neale Hurston Correct!
