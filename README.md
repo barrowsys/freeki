@@ -7,7 +7,9 @@ Quiz questions that are in the script are automatically selected and submitted. 
 
 At the end of the quiz, where it shows the score, the script will automatically upload the answers to me so I can add them to the script.
 
-# How to use
+When a question cannot be answered automatically, the script will open a google search of the question in a new window. (note: this only works if you allow pop-ups)
+
+# How to install
 
 You'll need the Tampermonkey extension. Then, you need to get the userscript.  
 - You can find the latest release in my keybase public folder at https://bobbybobson4888.keybase.pub/freeki.user.js  (this will update when you tell tampermonkey to update scripts)
