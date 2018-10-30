@@ -9,6 +9,7 @@
 // ==/UserScript==
 
 var question
+var done = false
 
 function answer(answer) {
     var container = document.querySelector(".answersContainer")
@@ -17,8 +18,13 @@ function answer(answer) {
        if(children[i].children[1].innerHTML.trim() === answer) {
            children[i].children[0].children[0].click()
            document.getElementById("nextQuestion").click()
+           done = true
        }
     }
+}
+
+function google() {
+    window.open("https://google.com/search?q=" + encodeURI(question), "_blank", "toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600")
 }
 
 function is(text, ans) {
@@ -48,4 +54,7 @@ function get_results() {
     }
     question = document.querySelector(".quizQuestion").innerText || document.querySelector(".quizQuestion").textContent
 {js_text}
+    if(!done) {
+         google()
+    }
 })();
