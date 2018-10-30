@@ -14,7 +14,7 @@ function answer(answer) {
     var container = document.querySelector(".answersContainer")
     var children = container.children
     for(var i = 0; i < 4; i++) {
-       if(children[i].children[1].innerHTML.includes(answer)) {
+       if(children[i].children[1].innerHTML.trim() === answer) {
            children[i].children[0].children[0].click()
            document.getElementById("nextQuestion").click()
        }
