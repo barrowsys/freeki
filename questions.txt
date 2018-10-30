@@ -29,6 +29,7 @@
 0. How many portal summoning candles are in the Burial Mound? Answer: Three Correct!
 0. In Azteca, Morganthe enlisted the help of the: Answer: The Black Sun Necromancers Correct!
 0. Joan of Arc fought bravely for what cause? Answer: French Independence Correct!
+0. Julius Caesar was key in the expansion of the ___________. Answer: Roman Empire Correct!
 0. King Henry VIII had how many wives? Answer: Six Correct!
 0. King Henry VIII wanted to remarry, which contributed to the creation of which religion? Answer: The Church of England Correct!
 0. KingsIsle makes games for which audience? Answer: All ages Correct!
@@ -89,6 +90,7 @@
 0. What is the apostrophe's main function? Answer: Show ownership or posession Correct!
 0. What is the capital of Alaska? Answer: Juneau Correct!
 0. What is the capital of Arizona? Answer: Phoenix Correct!
+0. What is the capital of California? Answer: Sacramento Correct!
 0. What is the capital of Colorado Answer: Denver Correct!
 0. What is the capital of Colorado? Answer: Denver Correct!
 0. What is the capital of Delaware? Answer: Dover Correct!
@@ -99,7 +101,9 @@
 0. What is the capital of Kansas? Answer: Topeka Correct!
 0. What is the capital of Kentucky? Answer: Frankfort Correct!
 0. What is the capital of Louisiana? Answer: Baton Rouge Correct!
+0. What is the capital of Maine? Answer: Augusta Correct!
 0. What is the capital of Maryland Answer: Annapolis Correct!
+0. What is the capital of Maryland? Answer: Annapolis Correct!
 0. What is the capital of Massachusetts? Answer: Boston Correct!
 0. What is the capital of Michigan Answer: Lansing Correct!
 0. What is the capital of Minnesota? Answer: Saint Paul Correct!
@@ -108,6 +112,7 @@
 0. What is the capital of Nebraska Answer: Lincoln Correct!
 0. What is the capital of Nebraska? Answer: Lincoln Correct!
 0. What is the capital of Nevada Answer: Carson City Correct!
+0. What is the capital of Nevada? Answer: Carson City Correct!
 0. What is the capital of New Hampshire? Answer: Concord Correct!
 0. What is the capital of New Jersey? Answer: Trenton Correct!
 0. What is the capital of New Mexico? Answer: Santa Fe Correct!
@@ -115,7 +120,9 @@
 0. What is the capital of North Dakota? Answer: Bismark Correct!
 0. What is the capital of Ohio? Answer: Columbus Correct!
 0. What is the capital of Oklahoma Answer: Oklahoma City Correct!
+0. What is the capital of Oregon? Answer: Salem Correct!
 0. What is the capital of Pennsylvania? Answer: Harrisburg Correct!
+0. What is the capital of Rhode Island? Answer: Providence Correct!
 0. What is the capital of South Dakota Answer: Pierre Correct!
 0. What is the capital of South Dakota? Answer: Pierre Correct!
 0. What is the capital of Tennessee Answer: Nashville Correct!
@@ -124,6 +131,7 @@
 0. What is the capital of Utah Answer: Salt Lake City Correct!
 0. What is the capital of Utah? Answer: Salt Lake City Correct!
 0. What is the capital of Vermont? Answer: Montpelier Correct!
+0. What is the capital of Virginia? Answer: Richmond Correct!
 0. What is the capital of Washington? Answer: Olympia Correct!
 0. What is the capital of West Virginia Answer: Charleston Correct!
 0. What is the capital of West Virginia? Answer: Charleston Correct!
@@ -177,6 +185,7 @@
 0. What time does the clock always read in Marleybone? Answer: 1:55 Correct!
 0. What transports you from place to place in Marleybone? Answer: Hot Air Balloons Correct!
 0. What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
+0. What was Julius Caesar's motto? Answer: I came, I saw, I conquered. Correct!
 0. What was the name of KingsIsle's first game? Answer: Wizard101 Correct!
 0. What was the name of the first charity Mount created by KingsIsle called? Answer: Meowmodon Correct!
 0. What year did KingsIsle launch Pirate101? Answer: 2012 Correct!
@@ -229,6 +238,7 @@
 0. Which two ammendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms? Answer: Fourteenth and Fifteenth Correct!
 0. Who Is NOT a member of the Council of Light? Answer: Cyrus Drake Correct!
 0. Who composed Blue Danube? Answer: Strauss Correct!
+0. Who composed Bolero? Answer: Ravel Correct!
 0. Who composed Canon in D? Answer: Pachelbel Correct!
 0. Who composed Carnival of the Animals? Answer: Saint-Saens Correct!
 0. Who composed Dance of the Sugar-Plum Fairy? Answer: Tchaikovsky Correct!
@@ -247,6 +257,7 @@
 0. Who composed Ride of the Valkyries? Answer: Wagner Correct!
 0. Who composed Sorcerer's Apprentice? Answer: Dukas Correct!
 0. Who composed Toccata and Fugue in D Minor? Answer: Bach Correct!
+0. Who composed the 1812 Overture? Answer: Tchaikovsky Correct!
 0. Who composed the William Tell Overture? Answer: Rossini Correct!
 0. Who did the United States purchase Alaska from? Answer: Russia Correct!
 0. Who grants the first Shadow Magic spell? Answer: Sophia DarkSide Correct!
@@ -305,6 +316,7 @@
 0. Who wrote A Clockwork Orange? Answer: Anthony Burgess Correct!
 0. Who wrote Animal Farm? Answer: George Orwell Correct!
 0. Who wrote Are You There God? It's Me, Margaret? Answer: Judy Blume Correct!
+0. Who wrote Atonement? Answer: Ian McEwan Correct!
 0. Who wrote Beloved? Answer: Toni Morrison Correct!
 0. Who wrote Catch-22? Answer: Joseph Heller Correct!
 0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
