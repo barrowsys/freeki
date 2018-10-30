@@ -1,87 +1,3 @@
-0.  Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
-0.  Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
-0.  Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
-0.  Arthur Wethersfield is A:.. Answer: Dog Correct!
-0.  Assuage Answer: to relieve or soothe Correct!
-0.  Auspicious Answer: favorable, noteworthy Correct!
-0.  Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
-0.  Conceit Answer: an excessively favorable opinion of one's own ability, importance or wit Correct!
-0.  Conspicuous Answer: noticeable, obvious Correct!
-0.  Enigma Answer: a mystery Correct!
-0.  Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
-0.  Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
-0.  Quandary Answer: a state of perplexity or uncertainty Correct!
-0.  What did Prospector Zeke lose in Marleybone? Answer: The Stray Cats Correct!
-0.  What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
-0.  What initials were on the doctor's glove? Answer: XX Correct!
-0.  What is Sgt. Major Talbot's full name? Answer: Sylvester Quimby Talbot III Correct!
-0.  What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
-0.  What is flying around in Regent's Square? Answer: Newspapers Correct!
-0.  What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
-0.  What time does the clock always read in Marleybone? Answer: 1:55 Correct!
-0.  What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
-0.  Which is not a street in Regent's Square? Answer: Fleabitten Ave Correct!
-0.  Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
-0. Allegory Answer: a representation of an abstract or spiritual meaning through concrete or material forms Correct!
-0. Ambiguity Answer: doubtfulness or uncertainty of meaning or intention Correct!
-0. Annotated Answer: supplied with or containing explanatory notes and textual comments Correct!
-0. Arthur Wethersfield is A:.. Answer: Dog Correct!
-0. Assuage Answer: to relieve or soothe Correct!
-0. Auspicious Answer: favorable, noteworthy Correct!
-0. Buoyancy Answer: the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed Correct!
-0. Conceit Answer: an excessively favorable opinion of one's own ability, importance or wit Correct!
-0. Conspicuous Answer: noticeable, obvious Correct!
-0. Enigma Answer: a mystery Correct!
-0. Euphemism Answer: the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt Correct!
-0. Principle Answer: a fundamental, primary, or general law or truth from which others are derived Correct!
-0. Quandary Answer: a state of perplexity or uncertainty Correct!
-0. What did Prospector Zeke lose in Marleybone? Answer: The Stray Cats Correct!
-0. What event is Abigail Doolittle sending out invitations for? Answer: Policeman's Ball Correct!
-0. What initials were on the doctor's glove? Answer: XX Correct!
-0. What is Sgt. Major Talbot's full name? Answer: Sylvester Quimby Talbot III Correct!
-0. What is a very common last name of the cats in Marleybone? Answer: O'Leary Correct!
-0. What is flying around in Regent's Square? Answer: Newspapers Correct!
-0. What sort of beverage is served in Air Dales Hideaway? Answer: Root Beer Correct!
-0. What time does the clock always read in Marleybone? Answer: 1:55 Correct!
-0. What two names are on the Statues in the Marleybone cathedral? Answer: Saint Bernard and Saint Hubert Correct!
-0. Which is not a street in Regent's Square? Answer: Fleabitten Ave Correct!
-0. Who composed Blue Danube? Answer: Strauss Correct!
-0. Who composed Carnival of the Animals? Answer: Saint-Saens Correct!
-0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
-0. Who composed Flight of the Bumblebee? Answer: Timsky-Korsakov Correct!
-0. Who composed Four Seasons? Answer: Vivaldi Correct!
-0. Who composed Hungarian Rhapsody No. 2? Answer: Liszt Correct!
-0. Who composed La Gioconda: Dance of the Hours? Answer: Ponchielli Correct!
-0. Who composed Moonlight Sonata? Answer: Beethoven Correct!
-0. Who composed Ode to Joy? Answer: Beethoven Correct!
-0. Who composed Rhapsody In Blue? Answer: Gershwin Correct!
-0. Who composed Ride of the Valkyries? Answer: Wagner Correct!
-0. Who composed the William Tell Overture? Answer: Rossini Correct!
-0. Who is the dangerous criminal that is locked up, but escapes from Newgate Prison? Answer: Meowiarty Correct!
-0. Who was the 12th president of the United States? Answer: Zachary Taylor Correct!
-0. Who was the 16th president of the United States? Answer: Abraham Lincoln Correct!
-0. Who was the 24th president of the United States? Answer: Grover Cleveland Correct!
-0. Who was the 27th president of the United States? Answer: William Howard Taft Correct!
-0. Who was the 31st president of the United States? Answer: Herbert Hoover Correct!
-0. Who was the 35th president of the United States? Answer: John F. Kennedy Correct!
-0. Who was the 37th president of the United States? Answer: Richard Nixon Correct!
-0. Who was the 3rd president of the United States? Answer: Thomas Jefferson Correct!
-0. Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
-0. Who was the 42nd president of the United States? Answer: Bill Clinton Correct!
-0. Who was the 6th president of the United States? Answer: John Quincy Adams Correct!
-0. Who was the 9th president of the United States? Answer: William Henry Harrison Correct!
-0. Who wrote Are You There God? It's Me, Margaret? Answer: Judy Blume Correct!
-0. Who wrote Beloved? Answer: Toni Morrison Correct!
-0. Who wrote Catch-22? Answer: Joseph Heller Correct!
-0. Who wrote Gone with the Wind? Answer: Margaret Mitchell Correct!
-0. Who wrote Lord of the Flies? Answer: William Golding Correct!
-0. Who wrote Mrs. Dalloway? Answer: Virginia Woolf Correct!
-0. Who wrote Never Let Me Go? Answer: Kazuo Ishiguro Correct!
-0. Who wrote Slaughterhouse-Five? Answer: Kurt Vonnegut Correct!
-0. Who wrote The Grapes of Wrath? Answer: John Steinbeck Correct!
-0. Who wrote The Heart is a Lonely Hunter? Answer: Carson McCullers Correct!
-0. Who wrote The Lion, The Witch and the Wardrobe? Answer: C.S. Lewis Correct!
-0. Who wrote The Lord of the Rings? Answer: J.R.R. Tolkien Correct!
 0. 11 Southern states succeeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. 11 Southern states suceeded from the union in 1860 to form the _________ States of America. Answer: Confederate Correct!
 0. A period is also used to __________ words. Answer: Abbreviate Correct!
@@ -152,6 +68,7 @@
 0. This element is the building block of life. Answer: C Correct!
 0. This element was discovered by Hans Christian Oersted in 1825. Answer: Al Correct!
 0. This element was discovered by Joseph Priestly and Carl Scheele in 1774. Answer: O Correct!
+0. This element was discovered in 1808. Answer: B Correct!
 0. This element when combined with Chlorine makes table salt. Answer: Na Correct!
 0. This famous American colony is in modern Massachusetts. Answer: Plymouth Correct!
 0. This famous display against England's taxation threw a luxury item into the sea. Answer: Boston Tea Party Correct!
@@ -346,6 +263,7 @@
 0. Who was the 10th president of the United States? Answer: John Tyler Correct!
 0. Who was the 11th president of the United States? Answer: James K. Polk Correct!
 0. Who was the 12th president of the United States? Answer: Zachary Taylor Correct!
+0. Who was the 13th president of the United States? Answer: Millard Fillmore Correct!
 0. Who was the 14th president of the United States? Answer: Franklin Pierce Correct!
 0. Who was the 16th president of the United States? Answer: Abraham Lincoln Correct!
 0. Who was the 18th president of the United States? Answer: Ulysses S. Grant Correct!
@@ -375,6 +293,7 @@
 0. Who was the 40th president of the United States? Answer: Ronald Reagan Correct!
 0. Who was the 41st president of the United States? Answer: George H. W. Bush Correct!
 0. Who was the 42nd president of the United States? Answer: Bill Clinton Correct!
+0. Who was the 43rd president of the United States? Answer: George W. Bush Correct!
 0. Who was the 44th president of the United States? Answer: Barack Obama Correct!
 0. Who was the 4th president of the United States? Answer: James Madison Correct!
 0. Who was the 5th president of the United States? Answer: James Monroe Correct!
