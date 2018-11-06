@@ -106,6 +106,7 @@
 0. What is the capital of Maryland? Answer: Annapolis Correct!
 0. What is the capital of Massachusetts? Answer: Boston Correct!
 0. What is the capital of Michigan Answer: Lansing Correct!
+0. What is the capital of Michigan? Answer: Lansing Correct!
 0. What is the capital of Minnesota? Answer: Saint Paul Correct!
 0. What is the capital of Mississippi? Answer: Jackson Correct!
 0. What is the capital of Montana? Answer: Helena Correct!
@@ -116,6 +117,7 @@
 0. What is the capital of New Hampshire? Answer: Concord Correct!
 0. What is the capital of New Jersey? Answer: Trenton Correct!
 0. What is the capital of New Mexico? Answer: Santa Fe Correct!
+0. What is the capital of New York? Answer: Albany Correct!
 0. What is the capital of North Carolina? Answer: Raleigh Correct!
 0. What is the capital of North Dakota? Answer: Bismark Correct!
 0. What is the capital of Ohio? Answer: Columbus Correct!
@@ -149,6 +151,7 @@
 0. What is the state bird of Idaho? Answer: Mountain Bluebird Correct!
 0. What is the state bird of Illinois? Answer: Cardinal Correct!
 0. What is the state bird of Indiana? Answer: Cardinal Correct!
+0. What is the state bird of Iowa? Answer: American Goldfinch Correct!
 0. What is the state bird of Kansas? Answer: Western Meadowlark Correct!
 0. What is the state bird of Kentucky? Answer: Cardinal Correct!
 0. What is the state bird of Louisiana? Answer: Brown Pelican Correct!
@@ -168,7 +171,9 @@
 0. What is the state bird of North Dakota? Answer: Western Meadowlark Correct!
 0. What is the state bird of Ohio? Answer: Cardinal Correct!
 0. What is the state bird of Oklahoma? Answer: Scissor-Tailed Flycatcher Correct!
+0. What is the state bird of Oregon? Answer: Western Meadowlark Correct!
 0. What is the state bird of Pennsylvania? Answer: Ruffed Grouse Correct!
+0. What is the state bird of Rhode Island? Answer: Rhode Island Red Correct!
 0. What is the state bird of South Carolina? Answer: Carolina Wren Correct!
 0. What is the state bird of South Dakota? Answer: Ring-Necked Pheasant Correct!
 0. What is the state bird of Tennessee? Answer: Mockingbird Correct!
@@ -240,6 +245,7 @@
 0. Who composed Blue Danube? Answer: Strauss Correct!
 0. Who composed Bolero? Answer: Ravel Correct!
 0. Who composed Canon in D? Answer: Pachelbel Correct!
+0. Who composed Carmen: Les Toreadors? Answer: Bizet Correct!
 0. Who composed Carnival of the Animals? Answer: Saint-Saens Correct!
 0. Who composed Dance of the Sugar-Plum Fairy? Answer: Tchaikovsky Correct!
 0. Who composed Eine Kleine Nachtmusik: Allegro? Answer: Mozart Correct!
@@ -276,6 +282,7 @@
 0. Who was the 12th president of the United States? Answer: Zachary Taylor Correct!
 0. Who was the 13th president of the United States? Answer: Millard Fillmore Correct!
 0. Who was the 14th president of the United States? Answer: Franklin Pierce Correct!
+0. Who was the 15th president of the United States? Answer: James Buchanan Correct!
 0. Who was the 16th president of the United States? Answer: Abraham Lincoln Correct!
 0. Who was the 18th president of the United States? Answer: Ulysses S. Grant Correct!
 0. Who was the 19th president of the United States? Answer: Rutherford B. Hayes Correct!
@@ -285,6 +292,7 @@
 0. Who was the 22nd president of the United States? Answer: Grover Cleveland Correct!
 0. Who was the 23rd president of the United States? Answer: Benjamin Harrison Correct!
 0. Who was the 24th president of the United States? Answer: Grover Cleveland Correct!
+0. Who was the 25th president of the United States? Answer: William McKinley Correct!
 0. Who was the 26th president of the United States? Answer: Theodore Roosevelt Correct!
 0. Who was the 27th president of the United States? Answer: William Howard Taft Correct!
 0. Who was the 28th president of the United States? Answer: Woodrow Wilson Correct!
@@ -338,5 +346,6 @@
 0. Who wrote The Sun Also Rises? Answer: Ernest Hemingway Correct!
 0. Who wrote Their Eyes Were Watching God? Answer: Zora Neale Hurston Correct!
 0. Who wrote Things Fall Apart? Answer: Chinua Achebe Correct!
+0. Who wrote To Kill a Mockingbird? Answer: Harper Lee Correct!
 0. Who wrote Watchmen? Answer: Alan Moore Correct!
 0. Winston Churchill was prime minister of Britian during which war? Answer: World War II Correct!
