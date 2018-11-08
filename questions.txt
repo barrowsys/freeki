@@ -90,6 +90,7 @@
 0. What is the apostrophe's main function? Answer: Show ownership or posession Correct!
 0. What is the capital of Alaska? Answer: Juneau Correct!
 0. What is the capital of Arizona? Answer: Phoenix Correct!
+0. What is the capital of Arkansas? Answer: Little Rock Correct!
 0. What is the capital of California? Answer: Sacramento Correct!
 0. What is the capital of Colorado Answer: Denver Correct!
 0. What is the capital of Colorado? Answer: Denver Correct!
@@ -109,6 +110,7 @@
 0. What is the capital of Michigan? Answer: Lansing Correct!
 0. What is the capital of Minnesota? Answer: Saint Paul Correct!
 0. What is the capital of Mississippi? Answer: Jackson Correct!
+0. What is the capital of Missouri? Answer: Jefferson City Correct!
 0. What is the capital of Montana? Answer: Helena Correct!
 0. What is the capital of Nebraska Answer: Lincoln Correct!
 0. What is the capital of Nebraska? Answer: Lincoln Correct!
@@ -125,9 +127,11 @@
 0. What is the capital of Oregon? Answer: Salem Correct!
 0. What is the capital of Pennsylvania? Answer: Harrisburg Correct!
 0. What is the capital of Rhode Island? Answer: Providence Correct!
+0. What is the capital of South Carolina? Answer: Columbia Correct!
 0. What is the capital of South Dakota Answer: Pierre Correct!
 0. What is the capital of South Dakota? Answer: Pierre Correct!
 0. What is the capital of Tennessee Answer: Nashville Correct!
+0. What is the capital of Tennessee? Answer: Nashville Correct!
 0. What is the capital of Texas Answer: Austin Correct!
 0. What is the capital of Texas? Answer: Austin Correct!
 0. What is the capital of Utah Answer: Salt Lake City Correct!
