@@ -97,6 +97,7 @@
 0. What is the capital of Delaware? Answer: Dover Correct!
 0. What is the capital of Georgia? Answer: Atlanta Correct!
 0. What is the capital of Hawaii? Answer: Honolulu Correct!
+0. What is the capital of Idaho? Answer: Boise Correct!
 0. What is the capital of Indiana Answer: Indianapolis Correct!
 0. What is the capital of Indiana? Answer: Indianapolis Correct!
 0. What is the capital of Kansas? Answer: Topeka Correct!
@@ -124,6 +125,7 @@
 0. What is the capital of North Dakota? Answer: Bismark Correct!
 0. What is the capital of Ohio? Answer: Columbus Correct!
 0. What is the capital of Oklahoma Answer: Oklahoma City Correct!
+0. What is the capital of Oklahoma? Answer: Oklahoma City Correct!
 0. What is the capital of Oregon? Answer: Salem Correct!
 0. What is the capital of Pennsylvania? Answer: Harrisburg Correct!
 0. What is the capital of Rhode Island? Answer: Providence Correct!
@@ -170,6 +172,7 @@
 0. What is the state bird of Nevada? Answer: Mountain Bluebird Correct!
 0. What is the state bird of New Hampshire? Answer: Purple Finch Correct!
 0. What is the state bird of New Jersey? Answer: American Goldfinch Correct!
+0. What is the state bird of New Mexico? Answer: Roadrunner Correct!
 0. What is the state bird of New York? Answer: Eastern Bluebird Correct!
 0. What is the state bird of North Carolina? Answer: Cardinal Correct!
 0. What is the state bird of North Dakota? Answer: Western Meadowlark Correct!
