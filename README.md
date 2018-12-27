@@ -19,6 +19,8 @@ Opening the freeki.user.js file in your browser should open the dialog to instal
 
 # Update Information
 
+NOTICE: This system is not working right now, and I don't know when I will be able to fix it. In the meantime, the bookmarks.txt file has a list of 10 quizzes that i've found to work pretty well
+
 Every hour on the hour (that my computer is on, which is pretty much all the time), the questions list is updated with new questions, the userscript is compiled, and the compiled script is stored in my keybase public folder.  
 Every day at midnight (that my computer is on, which is pretty much all the time), the updated questions list is committed and pushed to this git repository.  
 
